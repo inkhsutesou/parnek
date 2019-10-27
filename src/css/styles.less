@@ -1,0 +1,106 @@
+*, *:before, *:after {
+  --color-black: #222;
+  --color-grey: #aaa;
+  --color-bg: hsla( 030, 025%, 085%, 1.0);
+}
+
+body {
+    display: block;
+    background-color: var( --color-bg );
+}
+
+li, h3, h4, h5, h2:not(.all) {
+  height: 0;
+  padding: 0;
+  position: absolute;
+  overflow: hidden;
+}
+
+ul {
+  padding-left: 3rem;
+}
+
+chore-node {
+  white-space: pre;
+  position: fixed;
+  top: 0;
+  right: 0;
+  padding: 1vmax;
+  background-color: hsla( 000, 000%, 100%, 0.5 );
+}
+
+.KE .kelaria-brightleaf,
+.VY .vyse-vosenhaut,
+.MU .mugnila-coppice,
+.AD .adamah-machinist-ii,
+.ALPHA .party-alpha,
+.OMEGA .party-omega,
+.DM li, .DM h2, .DM h3, .DM h4,
+.all + * li
+{
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+
+img.avatar {
+  width: 1rem;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+dmhero-image {
+  display: block;
+  width: 260px;
+  height: 350px;
+  overflow: hidden;
+  .imgFG {
+    display: none;
+  }
+  > img {
+    position: absolute;
+  }
+}
+
+img[alt][title] {
+  width: 50vw;
+  margin: auto;
+  display: block;
+}
+
+.toggle {
+  &:hover {
+    > toggle-text {
+      color: hsla( 045, 100%, 050%, 1.0 );
+      cursor: pointer;
+    }
+    > ul {
+      color: initial;
+      cursor: default;
+    }
+  }
+  &[ data-is-expand = 'false' ] {
+    &:before { content: '[+]' }
+    li& {
+      > ul { display: none }
+    }
+    h1&, h2&, h3&, h4&, h5& {
+      + div { display: none; }
+    }
+  }
+  &[ data-is-expand = 'true' ] {
+    &:before { content: '[-]' }
+    li& {
+      > ul { display: list-item }
+    }
+    h1&, h2&, h3&, h4&, h5& {
+      + div { display: block; }
+    }
+  }
+}
+
+.voice-icon {
+  &:before {
+    content: '💬';
+  }
+}

@@ -1,0 +1,86 @@
+##=========================================================
+lore:
+##=========================================================
+##=====================================
+  - name: Bornescht Beetle
+##=====================================
+    tags: [ alchemy ]
+    effect: |-
+      addMixture( increasePower )
+##=====================================
+  - name: Hare's Fern
+##=====================================
+    tags: [ alchemy ]
+    effect: |-
+      addMixture( removeFever )
+##=====================================
+  - name: Cochlea Stone
+##=====================================
+##=====================================
+  - name: Rememberance Stone
+##=====================================
+    limit:
+      notes: &alp
+    tags: [ stone, magic ]
+    effect: |-
+      on( taste || smell )
+      reliveMemory( self.int * d8 rds )
+      !isSave( wis, 10 ) && liveNightmare()
+      isSee( undefined ) && isCheck( int, 12 )
+      if ( isRd( 3 ) ) {
+        wake()
+        self.hp -= self.lv * d4
+      }
+      if ( roll( 3, d20 ) === 3 ) {
+        breakStone()
+        gain( keyOfMemories )
+      }
+    notes: |-
+      - A strange smooth stone, it emits a faint bitter scent
+##=====================================
+  - name: &bookCaHe The true story behind Calsar Hei'Sang
+##=====================================
+    tags: [ book, infernal ]
+    notes: |-
+      - Was not an innocent character
+      - Did not act alone to save Parnek
+      - Boldrei, Goddess of Protection assembled organization
+      - Symbol a flower shaped like the Moon
+      - Vanished in Marigrun
+##=====================================
+  - name: &foodBiAl Bitter Ale
+##=====================================
+    tags: food
+    grade: ★★★✬☆
+    effect: > isSave(con, 12) ? CHA+1 : addProp(sleep)
+##=====================================
+  - name: &foodWaMe Watered Mead
+##=====================================
+    tags: food
+    grade: ☆☆☆☆☆
+    effect: > isSave(con, 15) ? CHA+1 : addWeak(blunt, sonic)
+##=====================================
+  - name: Loose Scrambled Eggs
+##=====================================
+    tags: food
+    grade: ★★★✬☆
+    effect: >
+    grade: ☆☆☆☆☆
+##=====================================
+  - name: &foodRaSs Radish Soft Slices
+##=====================================
+    tags: food
+    grade: ★★★✬☆
+    effect: > count > 3 && AC+1
+##=====================================
+  - name: Bottled Rage
+##=====================================
+    tags: potion
+    grade: ★★★✬☆
+    effect: |-
+      STR|DEX|CON + 3
+      Physical Damage Resist
+      Attack nearest creature > object
+      If unable, take damage
+      Every turn WISSav 16
+      onSuccess can choose to end effect

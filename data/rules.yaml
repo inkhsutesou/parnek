@@ -1,0 +1,53 @@
+Rules:
+  Skills:
+    Athletics:
+      - Jump Height === Mod * 1ft
+      - Jump Distance === Str * 1ft + Mod
+      - Climb Range === Mod * 5ft
+      - Initiate Grapple / Shove
+    Acrobatics:
+      - Tight Rope Walking
+      - Landing Balance
+      - FallDamage -= Mod // Fall 10ft === Take 2d6-3(Acrobatics) dmg
+      - AtkOfOp -Mod /w RP
+      - Avoid Grapple / Shove
+    Sleight of Hand:
+      - DC +00 Draw attention away from an action, still seen and known
+      - DC +05 Obscure an action, still seen but not known
+      - DC +10 Hide an action, completely unknown
+    Stealth:
+      - Successful stealth is not out of sight, it`s out of mind
+      - Narrows and shortens the distance detection distance
+      - Disappearing into a crowd
+      - Losing someone mid-combat
+      - Moving silently
+    Arcana:
+      - 
+    History
+    Investigation
+    Nature
+    Religion
+    Animal Handling
+    Insight
+      - 1+ Gauge target's emotional state
+      - 5+ Guage target intent
+      - 10+ Know target's thoughts
+    Medicine
+    Perception
+    Survival
+    Deception
+      - Misdirect an insight
+    Intimidation
+      - Use Fear into action
+      - Does not create fear
+    Performance
+      - Range of Attention
+      - Gain Attention
+    Persuasion
+      - Use Trust into action
+      - Does not create trust
+Inspiration
+Gained from:
+  - Creative Solution, your character implemented an interesting solution to a problem
+  - Dialogue, your character had an emotionally strong set if dialogue
+  - Advantage Sacrifice, your character did something regardless of it's effectiveness

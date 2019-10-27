@@ -1,0 +1,90 @@
+##=========================================================
+places:
+##=========================================================
+##=====================================
+  Orn'Tal, the Mainland:
+##=====================================
+    area: 33.698 M km²
+    limit: *players
+    tags: [ continent ]
+##=====================================
+    Tholn:
+##=====================================
+      area: 0.850 M km²
+      limit: *mainland
+      tags: [ nation, cobbelin ]
+##=====================================
+    Vaptog:
+##=====================================
+      area: 1.962 M km²
+      limit: *mainland
+      tags: [ nation, vosenhaut ]
+      Vosenhaut Noble Estate:
+        tags: [ vosenhaut, royalty ]
+      Elten Community Monastery:
+        tags: [ monk ]
+##=====================================
+  Parnek, the Lost Continent:
+##=====================================
+    area: 7.692 M km²
+    limit: *players
+    tags: [ nation, vosenhaut ]
+##=====================================
+    Alvecia:
+##=====================================
+      area: 1.820 M km²
+##=====================================
+      Stormy Alder Woods:
+##=====================================
+        limit: *alpha
+##=====================================
+      Loremoss Woods:
+##=====================================
+        limit: *alpha
+        notes: |-
+          The Moss tells stories ..
+##=====================================
+        Telehorn Outpost:
+##=====================================
+          tags: [ destroyed ]
+          notes: |-
+            Forestry Village
+            Ranger Outpost
+##=====================================
+      Tholn'den:
+##=====================================
+        tags: [ occupied, capital ]
+        Constable Tower:
+          tags: [ constable, military ]
+        The Iron Shield:
+          tags: [ merchant, blacksmith ]
+        The Bloody Thorn:
+          tags: [ tavern ]
+          goods:
+            - *foodWaMe
+            - *foodRaSs
+        Minstrel's Chariot:
+          tags: [ tavern ]
+          goods:
+            - *foodBiAl
+          notes: |-
+            Boarded Windows
+        The Fools Sextant:
+          tags: [ merchant, maps ]
+        The Practical Parchment:
+          tags: [ merchant, stationary ]
+##=====================================
+        Marigrun:
+##=====================================
+          notes: |-
+            Grand White Cliffside City
+            Homes built into cliffs
+            100 years ago
+            Buildings, Farmlands and Shipyard destroyed by 1mos long hurricane
+            Temple of Boldrei survived untouched
+            Commemoration Event/1yr
+            - Clean City
+            - Clean Self
+            - Donate unneeded
+            - Wear Blue/Orange
+            - Pray Protection

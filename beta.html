@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+
+  <head>
+    <meta http-equiv='Content-type' content='text/html; charset=utf-8'>
+    <link rel='stylesheet' type='text/css' href='./lib/css/normalize.css' />
+  </head>
+
+  <body>
+    <status-node></status-node>
+    <navigation-node></navigation-node>
+    <contain-node id='session'>
+      <contain-node class='data'></contain-node>
+    </contain-node>
+    <contain-node id='character'>
+      <contain-node class='data'></contain-node>
+    </contain-node>
+  </body>
+
+</html>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/yamljs/0.3.0/yaml.min.js'></script>
+<script src='./beta.js'></script>
+<script src='./src/js/character.js'></script>
+<script src='./src/js/session.js'></script>
+
+<style>
+  *, *:before, *:after {
+    box-sizing: border-box;
+  }
+  body {
+    padding-top: 1rem;
+    font-family: 'MS PGothic';
+  }
+  status-node {
+    position: fixed;
+    display: block;
+    top: 0;
+    right: 0;
+    width: 100vw;
+    height: 1rem;
+    text-align: right;
+    color: hsla( 000, 100%, 100%, 1.0 );
+    background-color: hsla( 000, 000%, 000%, 0.5 );
+  }
+</style>

@@ -1,0 +1,1040 @@
+constants:
+
+  - &dm Dungeon Master
+
+  - &mug Mugnila Coppice
+  - &vys Vyse Vosenhaut
+  - &kel Kelaria Brightleaf
+  - &vor Vorux Elk
+
+  - &alpha [ *vys, *kel, *mug, *vor ]
+
+  - &ada Adama Machinist II
+  - &din Din Kthyr
+  - &ash Ashe Gillain
+
+  - &omega [ *ada, *din, *ash ]
+
+  - &public PUBLIC
+  - &player [ *ada, *din, *ash, *vys, *kel, *mug, *vor ]
+  - &orntal [ *ash, *vys, *ada ]
+  - &parnek [ *din, *kel, *mug, *vor ]
+
+  - &item
+    name: null
+    notes: |-
+
+##=========================================================
+dungeon master notes:
+##=========================================================
+  questions:
+    - Is Lagazi Elgara (Ashe`s Mother) dead ?
+  ideas:
+    - Critical fail 1 or 2
+    - One of your DCs is raised by 1
+    - AC raised by 1
+    - AtkRoll raised by 1
+    - Prevent a Disadvantage
+  hooks:
+    - Moon Hemlock ( Mugnila, Din )
+    - Orc Note - To speak to the dead ( Mugnila, Vyse, Din )
+    - Cochlea Stone
+    - Elgara Family Insignia
+    - Din`s Parents, Information on the Fog
+  Backlog: |-
+  
+  - Orcs of <Where Vorux is now> now rule Bluefield
+  - 
+  marigrun sends boats to capture kelaria
+  if capture
+  kelopia is the high priestess of Marigrun
+  she agrees to help Kelaria escape but must banish her
+  each is asked to be questioned by Kelopia
+  vyse, din, adamah
+  where are you from
+  what do you know of orntal, orcish hordes, deru
+  what is this ?  item from their inventory
+  how do you know kelaria/vendrick
+
+  ashe is called to meet with but must wait
+  while waiting is approached by spectres in the waiting room
+  grossly desperate starved elven children they attempt to kill her
+  you should have joined with us
+  he will destroy more than us
+  he destroyed us, because you let him
+  reveal brother
+  they leave into the room
+  kelopia only asks about orntal
+  prarios arrives in Marigrun and has a new competent spokesperson
+  veladin cornette, elven diplomat
+  - the location of mugnila
+  - demands kelaria be given over on grounds of witchcraft
+  
+  kelopia, I`m sorry, and delivers to prarios
+  
+  
+
+
+##=========================================================
+sessions:
+##=========================================================
+##=====================================
+  - date: 20190903
+##=====================================
+    session: 15
+    level: 5
+    party: *player
+    events:
+      - Loss:
+        - Vorux Elk Stabs Daemiin Vrye
+        - The party is Fireballed and blinds the party
+        - Kelaria Brightleaf is able to escape and witness Vorux Elk disappearing
+        - Vorux Elk disappears in a Purple Haze
+        - " Grab the Rattle from the Cloaked Woman !! "
+        - " Then what ?? "
+        - TBC
+      - Rememberance:
+        - Din Kthyr - Fellow Orphan
+        - Ash Gillain - Didn`t grow up
+        - Adamah - Indication
+        - Vyse Vosenhaut - Bath House
+        - Kelaria Brightleaf - Medicine
+##=====================================
+  - date: 20190903
+##=====================================
+    session: 14
+    level: 5
+    party: Vorux Elk
+    events:
+      - Far away:
+        - Stab Daemiin Vrye
+        - Cloaked woman appears out of Daemiin Vrye ?
+        - Sent away to Wouby in Purple Haze
+        - " Grab the Rattle from the Cloaked Woman !! "
+        - " Then what ?? "
+      - Wouby the abandoned Citadel:
+        - Assaulted
+        - Climbed away
+        - Entered Inn
+        - Convinced Innkeeper Vorux from Alvencia
+        - Learned of Currency
+        - Box of scraps
+        - 12 Dwarves
+        - Took a broken rattle from a box of scraps
+        - Meditate
+      - Rude awakening:
+        - TBC
+##=====================================
+  - date: 20190903
+##=====================================
+    session: 13
+    level: 5
+    party: *player
+    events:
+      - The Clash:
+        - Din Kthyr, Ashe Gillain, sees Madislak is dead
+        - Machinist, you recognize Vyse Vosenhaut
+        - Vyse, you recognize the sound of Machinist`s Cannon they seem the same construction as the Mechanical Beast that attacked
+        - Ashe, you recognize Mugnila from a painting
+        - Mugnila, you recognize this man as Din, the Many
+        - Kelaria
+      - Vyse Vosenhaut, Vorux Elk, Viona Vosenhaut vs Vendrick Vosenhaut, Adamah Machinist II:
+        - Vyse Vosenhaut Arc, ALPHA, Broken Brotherhood:
+          - Mid-Battle Viona Vosenhaut enters
+          - Vendrick Vosenhaut kills Viona Vosenhaut
+          - Vendrick Dialogue:
+            - Brother, it`s time we ended this once ..  And for all.
+            - Your form is as lazy as your ethic, as slow as your loyalty to your family
+            - Why Vyse ?  Why leave us ?
+            - A beloved family abandoned
+            - A duchess left at the alter
+            - And the rest of us scrambling to fix the mess you caused !
+            - Why Vyse ?  Why did you leave us ?  Why did you leave .. me ?
+          - Viona Dialogue:
+            - Little Brother, when did it come to this ?  Stop this at once
+            - I`m afraid it`s far too late for that, but since you`ve arrived it will be convenient for me to end both of you !!
+            - They`re trapped, the Fog ..  I needed to tell you ..  You can free them ..  Stones ..  Kanos .. Devils
+        - Adamah Machinist II Arc, OMEGA, Magnetic Flux:
+          - Machinist comes to aid
+          - Should easily be stopped by magnetic field
+          - Machinist you are shut down, you notice a new device that was once hidden and disabled from you.  It is a memory bank
+          - Your programming is returning Machinist OS in 6 turns
+          - INT Check - Open BIOS ? y/n
+          - A panel opens ..  On your back, it is in Dwarvish
+          - Do you wish to disable the Machinist Partition ?  y/n - Cannot disabled P.a Machinist
+          - You are taken to a memory bank interface
+          - Memory Banks:
+            - P.a Machinist - MAIN BOOT, Hardware Override
+            - P.b Adamah - Disabled
+            - P.c Logging [1023yr] - Corrupted
+            - P.d Logging [1mos] - Enabled
+            - P.z ??? - Loading
+          - In order to move P.b Adamah, into P.a you must erase a memory bank
+          - Do you wish to overwrite P.a with P.b ?
+          - In the last round before Machinist takes control, P.z is revealed as theOS
+          - History - Vendrick Vosenhaut is not the Manufacturer
+      - Mugnila Coppice, Kelaria Brightleaf vs Din Kthyr, Ashe Gillain:
+        - Before Din Kthyr goes down
+        - Zansa`ba Coppice Returns
+        - Mugnila Coppice Arc, ALPHA, Zansa`ba Coppice and the Moon Hemlock:
+          - Vendrick defeated, attempts to run away with explosive grease
+          - Vendrick Dialogue:
+            - Of course I didn`t create you.  I don`t even know what you are.
+            - You were found in the desert and we`ve spent years making you useful.
+            - Now turn around and do as I say !
+            - .. And what of you Din ?  Do you wish to continue fighting for a people
+            - Who would set you a flame and watch you burn for daring to question ?
+            - For daring to learn ?
+          - Zansa`ba Coppice:
+            - You must see this
+            - The Mainlanders have caused such a problem
+            - You asked me all this time about how I knew that the Mainland was real
+            - Well ..  I was around when relations with Orn`tal were commonplace
+            - Three hundred years ago ..
+            - Forgive me my Mugnila ..  We hadn`t any time
+            - I had to escape with the folk of Telehorn Outpost
+            - To Wutoshingen ..  My Magic isn`t what it used to be
+            - But it was enough to take us into the Earth, far far away
+            - We released the Orcs there into Alvencia, knowing that they would prevent their movements
+            - However, I am most afraid that Griffinfire Hamlet may suffer a terrible fate
+            - It was my decision that that fate would be better than those suffered at the hands of Orn`tal
+      - Hazen`braouto, the Sealed Black Dragon of Stone:
+        - Deeper into Shrine center
+        - Complete:
+          - Common:
+            - Parnek a thriving land beloved and wanted by all
+            - King Haladron Parnek was cruel and teased those of Orn`tal
+          - Elvish:
+            - The Deities themselves were teased by this King
+            - Anansa, Goddess of Beauty did not take kindly to such arrogance
+            - So she cursed Parnek with unyielding desirability
+          - Druidic:
+            - The land was blessed with so many greens and with life teeming it was as if Silvanus himself decided to live in Parnek
+            - For many years, Parnek was at it`s peak of riches and prosperity
+          - Halfling:
+            - Our crops grew, and we thought ourselves blessed.  Until ruin followed in our prosperity
+          - Dwarvish:
+            - Rulers of Orn`tal began to lay claim to Parnek, militarilty
+            - Parnek would be conquered, but Boldrei had a plan
+          - Goblin:
+            - Boldrei assembled the Order of Moon Hemlock
+          - Infernal:
+            - They would seal the Black Dragon and bring it to her Temple
+          - Abyssal:
+            - In so only that Royal Elven Blood of the highest calibur can unseal
+          - Draconic:
+            - They will harness it`s power to planeshift
+            - In an unending fog ..  Vanishing Parnek from the world
+          - Primordial:
+            - The waves crashed and the winds roared and disappeared forever a water and rock that did not belong
+        - Facing off Calsar Hei`Sang frozen with his knee in the Dragon`s scaleless body
+        - Ludo Thatkar, seems to be casting a ritual legs crossed
+        - Zansa`ba warns the party, and blows some petals into the barrier
+          - This is the Dragon Hazen`brauto, we harness it`s energy to create the fog
+          - It was us of the Moon Hemlock order that saved Parnek three hundred years ago
+          - Some petals fade away completely while others remain in a stasis
+          - This magic has been unnaturally fading for some time, someone has found a way to weaken it ..
+        - Kortod Leeches on the floor
+          - We`ve been tricked
+          - This would make it seem as if the the magic is weaker
+        - MagicCheck, this is a ritual
+      - Daemiin Vyre comes out of Din Kthyr:
+        - .. And also found a way to Enter !
+        - Oh, finally you`ve made it here.
+        - Today we free Hazen`braouto
+        - As I have, and you will
+        - We do it because throughout time and dimensions
+        - We`ve done it
+        - It is the only way we see our parents again
+        - The dragon wakes, the fog ends, and our parents are free
+        - Who am I ?  Daemiin Vrye ..  You know me because I know you.
+        - Daemiin Vrye or ..  I am every Din
+        - All you need is Royal blood
+        - And thankfully, we already have some here
+        - Takes out the same needle in a bottle that pricked Ashe Gillain
+        - Did you not know ?  What makes you think of this ?  Draws Symbol in Minor Illusion.  This is the secret of Elven Royalty.
+        - All we need is to touch this, right ..  Here
+        - Pricks the field, and it slowly begins to open
+        - Fancy you becoming me .. Eventually
+      - The stasis unstable:
+        - Zansa`ba ?  Is that you ??  You`re so old ..
+        - Don`t come any closer !!
+        - I`m sorry my Mugnila, but our reunion is shorter than I imagined ..
+        - I`ll have to go for real now ..  No tricks here ..
+        - This magic was greedily built on my blood ..  Coppice Blood
+        - When we cast this spell, I was lucky to have escaped this stasis ..
+        - In that time I was able to have you ..
+        - My wise and lovely Mugnila.  I Love you ..  Love through all Hardships ..
+        - It`s time I returned to my allies, be sure that you are good to yours
+        - Mugnila chooses whether to sacrifice herself instead or not
+      - End of Season one
+##=====================================
+  - date: 20190830
+##=====================================
+    session: 12
+    level: 4
+    party: *alpha
+    events:
+      - Kelaria Lightfoot vs Ruby Deru:
+        - Ruby attempt placate segregated
+        - Boldrei Worshippers support Kelaria Lightfoot
+        - Segregated follows Mugnila Coppice
+        - Ruby Deru introduces new Royal Knights lead by
+        - Cageth Horg, the Half-Orc Knight
+        - Noskethe Felena, the Tiefling Knight
+      - Thievery at Castle Deru:
+        - Searching for Treasury
+        - Attacked by Clockwork Dragon
+        - Receive Magnetic Field Device
+      - Golden Ferrit sends servant to Mugnila:
+        - Carriage with 3s Each
+        - Reaches Marigrun
+      - Jerrit reaches out to Vorux:
+        - I know your world, it`s my world too
+        - What it is to fear every move you make
+        - It is exhilirating, but it is also a road
+        - A road where you can never return from
+        - It`s not true though ..
+        - Kelaria has shown me there are other ways
+        - Other paths I could have taken
+        - Other ways I could have been
+        - I can still be that, and I think part of my growth
+        - Is letting you know you can be that too
+        - I`m going to become a Cleric of Prarios one day
+      - Ritual of Decision:
+        - Both must pray, the priests believe she who prove their fealty
+        - They think that means it means longest
+        - Boldrei tells Kelaria she must leave for the Coastal Island Immediately
+        - Priests announces that Kelaria must be possessed by Evil
+      - Reach Coastal Island
+      - Whistle of the Tone
+      - Deep in Cave find a heavy door
+      - Opens for Kelaria
+      - Madislak arrives on Twigsnap:
+        - Kills Jerrit
+        - All this time, all this time you had me fooled
+        - I thought you were my friends, I thought you were my hero !
+        - You were with him all along
+        - You were helping him this entire time
+        - The man who killed my mother
+        - Who laughed at me while I was held down, beaten
+        - The ones who made me this !!
+        - Summons the Ear Abomination:
+          - Ear Abomination
+          - Resist all damage except Sonic / Loud Sounds
+          - Madislak casts silence
+          - Madislak begins to invoke Kankit Gilgeam Yei`yoot
+        - Wall Breaks Open
+##=====================================
+  - date: 20190828
+##=====================================
+    session: 5
+    level: 4
+    party: *omega
+    events:
+      - Reaches Marigrun:
+      - Ritual of Decision:
+      - Kelaria Brightleaf leaves to the Coastal Island
+      - Vendrick Vosenhaut arrives with explosives
+##=====================================
+  - date: 20190827
+##=====================================
+    session: 4
+    level: 3
+    party: *omega
+    events:
+      - Filipow:
+        - Din asleep, will dream a dream where he fell to his death.  Yet he watches as Din gets up next to him.  His wrist broken, trying to make a brace and then going to find the books
+        - Ey Boyo, the crops are growing great just like every year.  If I had known I would have never given you any lip for wasting my time.
+      - The Library:
+        - Triggers Machinist, optics and is able to see which ones are recognized.  A flicker of an IO fired to an unknown device ..  Finds a book The ancient order of Moon Hemlock
+        - Founded, by the Goddess Boldrei
+        - Moon Hemlock, matches the picture in Calsar Hei`Sang an organization in ancient history that saved Parnek before the fog had enclosed around them.
+        - Ludo Thatkar the Elven Wizard gathered a party to stop the inevitable destruction of Parnek
+        - Zansa`ba Coppice the Dwarven Druid
+        - Falok Demin the Tiefling Cleric? / Warlock?
+        - Calsar Hei`Sang, the Human Monk
+        - Marigrun is where the ancient holy shrine of Boldrei is
+      - Fionafox Endtrot:
+        - Found her own way through the fog
+        - She managed this by striking a deal with an Ancient Golden Dragon
+        - Find a way to free those, trapped in the Fog
+        - Opened a way with Quentin Ferrywit, but he was uninterested in freeing those lost in the fog
+        - A mainlander noble ?  You don`t mean like those Vosenhauts or Cobbelins ?  They`ve caused nothing but Parnek trouble !
+        - Come to think of it, I do think I saw someone of that description going North ..  I`m going that way, would you like me to come along ?
+        - What did this noble do ?
+        - I`m interested in the fog ..  I`m looking for historical texts about it but they are so hard to find
+      - Bluefield:
+      - Refugees:
+        - People are here gathered looking for medical attentions
+        - But people witnessed her casting dark magics, trapping a woman in vines
+      - Witchcraft:
+        - Prarios has taken over here
+        - We will purge the witches from Parnek, including those Mainlanders
+        - It was witchcraft that allowed the Mainlanders past the fog
+        - Now that Mugnila Coppice has come through here, we have been under Savage attacks
+        - If you go you may find her there, along with her band of miscreants
+      - Savages:
+        - Sleep in the skin, cult of the cheek
+        - See a vision of Haesoe Umbermoor, Ashe`s younger brother
+        - Demonic, a voice only Ashe can hear
+        - He is ours, and soon you will be
+        - Old one offers a deal, I can help you get what you want ..  If you help me with what I want ..  Bracellet strange runes
+        - Buccae stone
+        - The Cheek abomination:
+          - Fight against touch itself
+          - Physical attack rolls are hidden
+          - Covered in touch WisSAV 8 Random Act:
+            - attack self
+            - attack ally
+            - knock prone
+            - fear
+      - Orcish Invasion of Griffinfire Hamlet:
+        - Mugnila isn`t a witch, I thought she was a hero
+        - List of missing and dead, dwarven names
+        - Although ..  They said they were going to investigate the Orcs east
+        - Attacked by Orcs, they also have the note, ability to speak to the dead
+        - They were going to speak to Domitia Romazi, an alchemist but we banished her for suspected witchcraft
+##=====================================
+  - date: 20190826
+##=====================================
+    session: 3
+    level: 2
+    party: *omega
+    events:
+      - Prarios Clerics:
+        - We`ve come to protect the Tholn`den people
+        - They release a pack of horses, they seem to rampage and hurt both civilians
+        - They free some of Tholn`den citizens
+        - Din Kthyr may join them
+        - Prarios will try to brainwash Din Kthyr
+        - Din may notice a cultist among their ranks
+      - Madislak Carnago relates to Din and Ashe:
+        - I am missing my mother, my father he was a brave soldier
+        - He has died fighting for the people of Highcliff but was not honored
+        - I wish to be as brave as he, but I am not
+        - I wish to be more like Ashe, but also wish to be more like Din
+        - I do not know about Machinist
+        - Sometimes Madislak looks as if he is whispering to something not there
+      - The Vosenhaut Task:
+        - Rescue from water
+        - Given the task to hunt Vyse Vosenhaut
+        - He is a traitor, banished from our house who has come to sabatoge the efforts of his own family
+        - At the last moment when he was to wed the Cobbelin`s Daughter Imaena he left his duty to his country and us younger siblings to clean his mess
+        - Vendrick Vosenhaut wishes to go, but cannot because he must stay in Tholn`den
+        - Your name is " Din " You say ?  I`m honestly not surprised ..
+        - Oh, no reason ..  It`s quite a common name really
+        - Do tell me of your ventures, and perhaps I might be of assistance
+        - Perhaps we can help each other, I also seek the answers of Parnek and that seems very related to your parents
+        - You must understand, this land was ours by right many centuries ago
+        - We captured it`s people to be sure no one was hurt for both our securities
+        - We even tried to settle this with King Ilham Inot, but the King would not do it to save his own people
+        - And the way that Tieflings and Half-Orcs are treated in Parnek is a disgrace
+        - Take this, a gold coin each
+        - Tracking device to Machinist
+        - I trust ..  You can do this with discretion ?
+      - The Informant:
+        - You did quite a number here
+        - I know when to join the winning side
+        - I`ve noticed a few interesting things here and there
+        - I couldn`t help but notice, you`re looking for a Mainlander Noble
+        - 5 silver and I`ll point you in the right direction ..
+        - As proof, his name is Vyse Vosenhaut.
+        - He travels with a well known Folk Hero Mugnila Coppice
+        - She does indeed seem to be involved in devilry
+        - I was surrounded by tentacles from all sides and was unable to escape while her goons took turns beating me ..
+        - I barely escaped .. She gave me this ..  Reveal fresh wound
+        - Last I saw them, they were in Bluefield ..  Traveling North
+        - I bet you they`re on their way to Marigrun
+##=====================================
+  - date: 20190820
+##=====================================
+    session: 2
+    level: 1
+    party: *omega
+    events:
+      - limit: [ *ash, *din ]
+      - The Fool`s Sextant
+      - Attempt to copy map
+      - They travel with the killer of my Mother:
+        - Warlock Den
+        - Madislak Carnago, My mother was killed
+        - I remember the face of the murderer
+        - He travels with Mugnila Coppice
+      - The destruction of Tholn`den:
+        - Given Spyglass, keep an eye on Vendrik Vosenhaut
+        - Kidnap a Royal Courtmember bring them to Din, the Many
+        - Vendrik Vosenhaut trouble Din the Many fireballs ship
+##=====================================
+  - date: 20190816
+##=====================================
+    session: 11
+    level: 3
+    party: *alpha
+    events:
+      - Prison Break:
+        - Met with Vorux, freeing him from prison
+        - Freed the rich and segregated
+        - The segregated arrive to save party
+        - Vorux tells Mugnila not to carve while riding
+        - Mugnila thunderclaps in public
+      - Hideout:
+        - The segregated bring party to hideout
+        - Please help us
+        - Mugnila borrows through the cellar
+        - Human woman saved by segregated
+      - limit: *vor
+      - The Sword of Damalia:chase
+        - Tiefling Servant
+    notes: |-
+      vorux
+      free rich, rich flee deru
+      h-orc, tiefling rising
+      arrival at kingdom
+##=====================================
+  - date: 20190815
+##=====================================
+    session: 0
+    party: *vor
+    events:
+      - New Town, new Job:
+        - The Bloody Crux
+        - Hidden Halfling Woman
+      - Royal Announcement:
+        - Overheard in Old Market
+        - Deru has allied with the Mainland in their conquest over Parnek
+        - Half-Orc and Tieflings given equality status
+        - Demanded donations from the rich merchants
+        - Kelaria Lightfoot speaks out against this alliance
+        - Mugnila Coppice unites the Half-Orcs and Tieflings
+      - Wreck the Red Door with a Gold Cross:
+        - Young Boy, how`d you break your nose ?
+        - Silk the Whoremonger, for sleeping with a whore for free
+        - She wanted to pay off her debt ..
+        - Unable to protect himself, and her
+        - Succeeded mission
+      - The Sword of Damalia:
+        - Discount on Info
+        - 5s Fence
+        - Located in Golden Ferret Mansion
+        - Faris Holsigger
+        - Attempt to rob
+        - Makes friend with tiefling servant
+        - Knocked out
+    notes: |-
+##=====================================
+  - date: 20190813
+##=====================================
+    session: 1
+    party: *omega
+    events:
+      - limit: *ash
+      - Ashe arrives on a ship
+      - Told to famiiarize with surroundings
+      - Do not make a scene
+      - They invade at night
+      - Arouses suspicion of Witchcraft from Docks Master
+      - Runs from guards, disguising herself in the Market
+      - limit: *din
+      - Return bounty on bandits
+      - Overhear the children`s ears murderer captured
+      - Warlock held in prison, to be executed
+      - Investigate Warlock`s Den
+      - limit: *ash
+      - Approached and harassed by Prarios Worshippers
+      - Guards interfere
+      - allow: *din
+      - Din asks about Mainlanders from Merchant
+      - Ashe Runs from guards
+      - Din creates Obstacle
+      - limit: *ada
+      - While walking, briefs Adamah
+      - Adamah is not to talk
+      - Identify members of the Royal Court
+      - Capture them and aide the Wolf and Badger
+      - For the least bloodshed
+      - limit: [ *din, *ash ]
+      - The Practical Parchment
+      - Purchase Paper Pen
+      - Learn ` The Fools Sextant `
+      - block: *din
+      - Recognize Cultist from Youth
+      - block: *ash
+      - Chase man
+      - Split up
+      - block: *din
+      - Killed man
+      - Spotted
+      - Took Vest > A guide to farming > Crude Map
+      - Written in Infernal
+      - allow: *din
+      - Meet back in front of the Practical Parchment
+      - Din recognizes Ashe has killed
+      - Din leaves to market
+      - block: *ash
+      - Purchase extravagant clothes/hood, haggled 1s > 7c
+      - allow: *ash
+      - Din returns with new extravagant clothes/hood
+      - Meet Damien Vyre
+      - Bring the Chosen One`s Brother
+      - Marigrun, the last known place of Calsar Hei`Sang
+      - limit: *ada
+      - Witness Royal Advisor, Steveren Goldrudder
+      - limit: [ *din, *ash ]
+      - Plan to visit The Fools Sextant
+    notes: |-
+##=====================================
+  - date: 20190809
+##=====================================
+    session: 10
+    party: *alpha
+    events:
+      - Arrival at Deru:
+        - Mugnila, Bug Bite, Exhausted
+        - Neighborhoods richer than Castle
+        - Merchants have an iron grip on Royalty
+      - An Announcement:
+        - Return of Orn`Tal Mainlanders Cobbelin Family
+        - Deru announces their Alliance and return to Orn`Tal rule
+        - Cobbelins will not stand for inequal treatment of Tiefling/H-Orcs
+        - Deru enforces donations of the rich for preparations of war
+        - Kelaria Jailed
+        - Vyse Follows
+        - Mugnila tries to sing a song to the guards
+      - Riots:
+        - After much tensity people are pulled out of their homes
+        - Many of the rich are jailed
+        - Young girl approaches party, threatens to reveal Mugnila`s secret
+        - Please release the rich, promises a gold coin
+      - Release the Rich:
+        - Find young girl from the locket
+          - I was told that that was
+          - Radiant Word makes guards rethink themselves
+          - Kelaria`s prayer was answered
+##=====================================
+  - date: 20190806
+##=====================================
+    session: 0
+    party: *ash
+    events:
+      - Childhood:
+        - Adoptive parents, unknown
+        - Bright happy childhood
+        - Taught combat, survival skills - dagger
+        - Myla Gillain marries Snorre Umbermoor
+        - Haesoe Umbermoor, is born
+      - Blood:
+        - Cult wants to host Demon using *ash
+        - Kankit Gilgeam Yei`yoot, the Demon
+        - Adoptive parents killed
+        - Haesoe Umbermoor is missing
+        - Raised by veteran grandfather
+        - Broken down, skewed
+      - The World:
+        - Locket family Insignia
+        - Thief
+        - Mercenary group, the Wolf and Badger
+        - Leaving to invade Parnek
+##=====================================
+  - date: 20190805
+##=====================================
+    session: 0
+    party: *din
+    events:
+      - Light Curiosity:
+        - Tied a Crystal to a staff
+        - Highcliff accepts from the Kathyr Family
+        - Theodorus Kathyr, Sophya Kathyr leaves to research the Fog
+        - Missing parents, he is scared, worried but faithful
+        - Irrigation methods, meeting Daemian Vrye
+      - Grim Curiosity:
+        - Scribing Mentorship
+        - [ Brought a book from a, *CaerFl ]
+        - Met man and woman in The Cracked Tavern
+        - Offered a job to search for artefact in nearby Cavern
+        - [ Received, *bookCH ]
+    notes: |-
+      he always made me feel at home
+      wizard taked to father beforehe left to the water
+      living room, secret knock
+      the ghost din that died falling down
+      wrist is broken, moonlight
+      father had kept all books, in a secret wine cellar
+      it has a lot more to do with listening, thinking of dins father
+      father threw away conventional methods of finding
+      snake path road
+##=====================================
+  - date: 20190726
+##=====================================
+    session: 8
+    party: *alpha
+    events:
+      - Alchemist talks about Hare`s Fern:
+        - Hare`s Fern is used to treat fevers
+      - Crier, be careful of Orc Raiders:
+        - Posted Note, Orcs seen in the area
+        - List of dead
+        - List of missing
+      - Warn the Mayor of the Mainlanders !:
+        - Only wanted to see Kelaria
+        - Hopes the Orcs remove Domitia Romazi
+      - Purchased, Sniff of Wind:
+        - Injured, Removed a hidden horseshoe nail
+        - Unusually fast
+      - Looting Orcs:
+        - Battle Beetle, the Blue Bornescht Beetle
+##=====================================
+  - date: 20190722
+##=====================================
+    session: 0
+    party: *ada
+    events:
+      - Unearthed:
+        - Overpowered by opportunists
+      - Reprogramming:
+        - Reprogrammed by Markus Lynchfield
+      - Purpose:
+        - Sold to Vendrik Vosenhaut
+##=====================================
+  - date: 20190719
+##=====================================
+    session: 7
+    party: *alpha
+    events:
+      - limit: *kel
+      - Kelaria Brightleaf and Ali Soviak leave to pick up the wagons and horses from Bluefield:
+        - Upon entering, they are looked up with scorned glances
+        - Finds Jeritt Vambala asleep after helping bandage refugees
+        - Sanity ★★☆☆☆
+        - The horses are gone, the wagon smashed
+        - INVESTIGATE: Devil is written on the wagon
+        - Ali Soviak leaves " I think we should separate for some time "
+        - An angry mob comes to drive Kelaria Brightleaf out
+        - Worshippers of Prarios are here leading this mob
+        - Casted Shield of Faith to block an attack from Prarios
+        - Jeritt Vambala tries to defend Kelaria Brightleaf
+        - From the crowd come those at Kelaria Brightleaf`s defense:
+          - Pug`s Would-be Robbers - Vil Daggersharp, Bram Graylock, Reznik Huba
+          - Refugee assistants
+        - Worshipper of Prarios - " The horses were chopped up and killed "
+        - Worshippers of Prarios have taken over the town of Bluefield
+        - Gargus Irongull tries to take control of his town of Bluefield
+        - Separated town into two, they fight and the non Woshippers of Prarios are submitted
+        - Uneasy truce between the Worshippers of Prarios and the town
+        - Worshippers of Prarios gain notoriety, kill the savages
+        - The town is united under Worshippers of Prarios
+      - limit: [ *vys, *mug ]
+      - Vyse Vosenhaut and Mugnila Coppice leaves to track the Informant:
+        - Tracked some wolves to their cliff den
+        - Animal Friendship + Speak with Animals
+        - Surrounded by wolves
+        - Mugnila Coppice names:
+          - RabbitHunter
+          - HumanStalker
+        - HumanStalker takes them south to a battle remains
+        - FOUND: A poisoned dagger
+        - FOUND: A mysterious gear bit
+        - Vyse Vosenhaut bribes HumanStalker to take them to where the Informant left
+        - Given a Meat Pie
+        - Promised the entire pack Meat Pies
+        - " PIEeeeeee-OOOOOOOOOOOOOOOOOO !! "
+        - Ride back to camp, the Informant returned to Bluefield
+        - limit: *dm
+        - The informant has returned to Tholn`den
+        - She has offered her information to Vendrik Vosenhaut
+        - Vendrik Vosenhaut knows where Vyse Vosenhaut is headed
+      - limit: *alpha
+      - The party re-unites:
+        - HumanStalker bites Kelaria Brightleaf
+        - Mugnila Coppice is able to stop HumanStalker from eating Kelaria Brightleaf
+        - " We need to go to Bluefield to make Meat Pies ! "
+        - " We can`t go back to Bluefield we need to leave now ! "
+        - The party leaves for Griffinfire Hamlet
+        - .. To get meat pies
+        - .. To be closer to Marigrun
+        - A caravan covered in Noble Guards of a Green Lion hold a Shield pass
+        - STEALTH: Goes Unnoticed
+        - INVESTIGATION: There seems to be people inside
+        - Parnek Nobility
+      - limit: *dm
+      - The nobility of Deru:
+        - Generations of True Nobles from 300 years ago who govern the Citadel of Deru
+        - Financial Ruin
+        - Nobility is trying to even it
+        - Merchants have stranglehold
+        - Stranglehold is superior economic grip
+        - Looking for help from the Mainlanders to regain their hold
+        - Vosenhaut will help, provided they gain
+        - Political stance within their Royal Court in Noble Marriages
+        - Military Information on others
+        - A decree of equality among races in Deru
+      - limit: *alpha
+      - Arrival in Griffinfire Hamlet:
+        - No one has heard of Mugnila Coppice`s witchery here
+        - Mugnila Coppice starts an 11 person song with the gate guards
+        - PERSUASION: The guards give access to Mugnila Coppice for free
+        - DECEPTION: Vyse Vosenhaut uses ?? Armador ?? as his name ?
+        - Bought meat pies from Darrak Ramcrown
+      - limit: *vys
+      - Vyse Vosenhaut returns to bring the Meat Pies to RabbitHunter:
+        - Vyse Vosenhaut provokes RabbitHunter attempting to say its name
+        - RabbitHunter attacks Vyse Vosenhaut, as he tries to run away
+        - RabbitHunter returns home with the Meat Pies
+      - limit: *alpha
+      - Party arrives at the Temple of Anansa:
+        - Mugnila Coppice falls asleep under a tree surrounded by Hare`s Fern
+        - PERFORM: Mugnila Coppice snores very loudly
+        - limit: [ *kel, *vys ]
+        - The Priests of Anansa order that Mugnila Coppice leaves the Courtyard
+        - Kelaria Brightleaf and Clayre Goldrudder speak of Anansa and Boldrei culture
+        - "May Anansa spread throughout your life"
+        - Anansa Bow, right hand neck, left hand out
+        - Antonyr Strong carries Mugnila Coppice to her quarters
+        - Removes her packs and uncomfortable items and tucks her into bed
+        - Asks about Hare`s Fern and where they might get it prepared
+        - " There is an Herbalist that I can direct you to "
+        - limit: *vys
+        - Rests on a couch
+        - Mugnila Coppice drops a sack
+        - A small woolen bag stolen from Din
+        - Vyse Vosenhaut takes it
+        - limit: *kel
+        - Kelaria Lightfoot shares guidance with Jeritt Vambala
+        - " From sinful things can grow beauty "
+        - Falls asleep under a tree
+##=====================================
+  - date: 20190712
+##=====================================
+    session: 6
+    party: *alpha
+    events:
+      - An Excellent Breakfast:
+        - Jeritt Vambala begins to eat
+      - limit: [ *mug, *vys ]
+      - Rowdy children fighting:
+        - Ulrich Cresthill is the best puncher !
+        - Vyse Vosenhaut teaches Ulrich Cresthill a better way to punch
+        - ~ He swung so hard with his lumberous body that he was forced to stomp each time ~
+      - A lesson in economics
+      - limit: *kel
+      - To set a broken bone ..:
+        - Taught bone setting to refugee medics
+      - limit: *alpha
+      - Witchcraft !  Devilry !:
+        - PERCEPTION: Party notices the hooded informant
+        - Mugnila Coppice casts entangle in public
+        - Suspected/Assured of Witchcraft
+        - (7) Commoners willing to take action
+        - Kelaria Brightleaf attempts to publicly accept Mugnila Coppice
+        - Kelaria Brightleaf`s reputation is now marred
+      - Rubbish Games:
+        - Party follows the informant
+        - Informant leads them to Savages and are attacked
+        - Mugnila Coppice chases after Informant
+        - Kelaria Brightleaf + Vyse Vosenhaut are captured
+      - limit: *mug
+      - Distance Running:
+        - Mugnila Coppice chases after Informant with wildshape
+        - Informant leads Mugnila Coppice into a Wolf ambush
+        - Stopped by Spike Growth
+        - Entangle nearly manages to kill the Informant
+        - Ali Soviak comes and attempts to help
+        - Confused he doesn`t manage to be much help
+        - Informant manages to get away
+      - limit: [ *kel, *vys ]
+      - Savage Camp:
+        - limit: *vys
+        - Manages to stay awake and act unconscious, steals keys
+        - limit: [ *kel, *vys ]
+        - Have a long talk:
+          - He left his family to avoid responsibility
+          - Found by monks and trained
+          - Was kicked out
+        - They meet ??? Gnome whom helps them escape
+        - Savages are sleeping on dead bodies .. ?
+      - A long restful camp:
+        - Resting in Ali Soviak`s Tent
+        - Skywrite " Your Game is Rubbish .. "
+##=====================================
+  - date: 20190705
+##=====================================
+    session: 5
+    party: *alpha
+    events:
+      - The Invasion of Tholn`den II:
+        - Din, the Blackened wants to destroy more but the others stop him
+        - Steveren Goldrudder, Royal Advisor saves Kelaria and Vyse
+        - Marigrun, small island off coast with a singing cave
+        - Kelaria and allows players to escape
+        - Prarios Clerics cause runaway horses
+        - Tramples citizens + guards alike
+        - Stupidfoot, the Browne white blotches horse
+      - The ruins of Telehorn Outpost:
+        - Velene turns into a pile of dust
+        - Each of the citizens are replaced by a statue which crumbles
+        - Jeritt Vambala, is alive
+        - Twigsnap, an older grey horse, very muscular
+          - Is not dust
+          - Defend self, help others
+          - limit: *dm
+          - Meets Madislak
+          - limit: *alpha
+        - Grandmother statue is writing a list
+          - Hare`s Fern
+          - Frog Rose
+          - Moon Hemlock
+      - Desperation in Bluefield:
+        - Pugs general store
+        - Faced against
+        - Vil Daggersharp, Bram Graylock, Reznik Huba
+        - Resolved conflict with little bloodshed
+      - Refugee Fundraising:
+        - Mugnila Coppice raised 25c with the help of the party
+        - The party takes a long rest in the Galleon Arms
+        - limit: *kel
+        - Boldrei dream shares a tune → ⇗ → ⇘
+        - limit: *alpha
+      - A mysterious informant:
+        - " The Mainlanders have a secret weapon, for five silver I`ll let you know what it is "
+        - No deal
+        - Informant disappears
+        - limit: *mug
+        - Mugnila Coppice gives 20c to Lily Silverfin in hopes to aid the Refugees
+        - limit: *alpha
+##=====================================
+  - date: 20190628
+##=====================================
+    session: 4
+    party: *alpha
+    events:
+      - The Invasion of Tholn`den I:
+        - Tavern is destroyed by catapult
+        - Ships release lower decks soldiers of Vosenhaut && Cobbelin
+        - Tholn`den guard is greased and caught on fire
+        - Soldiers capturing citizens in cage wagons
+      - Brotherly Reunion:
+        - Party Captured
+        - Kelaria Claustraphobia
+        - Worshippers of Prarios defend citizens allowing many to escape
+        - limit: *vys
+        - Youngest brother claims Vyse Vosenhaut is dead
+        - Youngest brother trying to kill Vyse Vosenhaut
+        - limit: *alpha
+        - Party escapes ship
+        - Party meets Steini Herlison
+        - Soldier
+      - Din the Many:
+        - Din within the constable`s tower
+        - Din, the Many demands surrender Ilham Inot refuses
+        - Din, the Blackened destroys Telehorn Outpost
+##=====================================
+  - date: 20190621
+##=====================================
+    session: 3
+    party: *alpha
+    events:
+      - The Iron Jewelry Box:
+        - Find Blacksmith
+        - Purchase Iron Box
+        - 15c debt
+      - Bear attack !:
+        - Mother Bear attacking merchants
+        - Party comes upon them
+        - Merchants have bear cubs in caravan
+        - limit: *vys
+        - Merchants are Mainlander Hunters
+        - limit: *alpha
+        - Hunters x 4 + Bear
+        - Hunters driving away with Cubs
+        - Cages can be broken and Cubs may also fight
+        - Father bear arrives, Cubs released
+        - Kadu Kalanar given 21c, Meat Pie
+        - limit: *vys
+        - Vyse takes Kalanar Symbol, -5c
+        - limit: *kel
+        - Making good on your bet, -2c
+        - Kelaria pays off her debt in Bluefield
+        - limit: *alpha
+      - The send off:
+        - Party gets to Temple of Boldrei by dawn
+        - Mugnila tells Madislav Carnago that his mother dead
+        - Imthar wants Cochlea Stone
+        - We will take this to Bar`nala, Mar-Ove
+        - Other patron stones are in the Temple of Kanos
+        - Jeritt, to be taken care of by Temple of Boldrei
+        - Worshippers of Prarios come and demand cooperation
+        - Earth Tremor trips Prarios
+        - Are you not here to protect ?
+        - Imthar agrees to help
+        - Anton Filbersh
+        - Joined Worshippers of Priaros
+        - limit: *kel
+        - Brica, the Boldrei Priestess tells Kelaria to speak with Eurlich
+        - limit: *alpha
+        - Bar crawl
+        - Mugnila reveals her new song, everyone sings along
+        - Night comes party sleeps
+        - limit: *kel
+        - Dream of the destruction, warn them
+##=====================================
+  - date: 20190614
+##=====================================
+    session: 2
+    party: *alpha
+    events:
+      - limit: *vys
+      - Approached by `The Ear`
+      - limit: *alpha
+      - I have an idea where my family is !:
+        - After checking the royal registry
+        - Viola Vosenhaut, traveled north to Marigrun 6mos ago
+      - Pick up the bounty !:
+        - 32c
+        - Vyse off probation
+        - Interrogate the prisoners
+        - Attempts to escape
+        - A Prisoner, Aevan Armanci is killed
+      - Gilenth, the Shaister:
+        - Cup and Ball gambler calls upon party
+        - Pickpocket
+        - Cause combat
+        - Resolve thieves
+      - Ali Soviak, my wolf pelts were stolen !:
+        - Dealer were new but offered same price
+        - Took pelts and ran into sewers
+        - Sewers lead outside into the Loremoss Greys
+        - Wolf pelts were back in the Warlock`s Den
+        - Jeritt the redeemed
+        - Explain the Ear
+        - Confirm Madislak Carnago Mother Death
+        - Get Ring
+          - [s3] " Love through all Hardship "
+        - 20c
+      - The Drained Man, Cole:
+        - Arrival, healed
+        - Found bloody thorn inn
+      - Zansa`ba Coppice, the leader of Telehorn Outpost:
+        - Mainlanders
+        - Concern
+        - Fluffy eggs and Mead
+        - Cochlea Stone explanation
+        - Cochlea Stone tries to bond with Grandmother
+        - Bring Cochlea Stone to Temple of Boldrei
+##=====================================
+  - date: 20190607
+##=====================================
+    session: 1
+    party: *alpha
+    events:
+      - Introduction:
+        - Vyse Vosenhaut arrives in Tholn`den by Ship
+        - Black cloaked wizard boat Tholn`den registry
+        - Market District - Wait, Horses being sold
+        - Mugnila arrives in Tholn`den, two bandits
+        - Guard and investigation about ears
+        - Kelaria reaches Tholn`den does registry
+        - A child with missing ear and parents are nearby
+        - parents explain attacked from the southern forest
+        - Night comes possible tavern ?
+        - Information on thugs lead forest
+        - Forest has warlock, `The Ear`

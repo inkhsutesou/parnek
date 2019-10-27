@@ -1,0 +1,279 @@
+##=========================================================
+const:
+##=========================================================
+  - &kel Kelaria Brightleaf
+  - &vor Vorux Elk
+  - &ada Adamah / Machinist II
+  - &ash Ashe Gillain / Abelas Elgara
+  - &vys Vyse Vosenhaut
+  - &mug Mugnila Coppice
+  - &din Din Kthyr
+##=========================================================
+characters:
+##=========================================================
+##=====================================
+  - name: template
+##=====================================
+    tags: [ race, job, history ]
+    seen: location
+    notes: |-
+      didAThing
+      knownForThis
+##=====================================
+  - name: Viona Vosenhaut
+##=====================================
+    tags: [ human, fighter, nobility ]
+    seen: Orn'tal
+    notes: |-
+      Fiona Fox Endtrot
+##=====================================
+  - name: Imaena Cobbelin
+##=====================================
+    tags: [ human, cobbelin, nobility ]
+    seen: Orn'tal
+    notes: |-
+      Betrothed to Vyse Vosenhaut
+##=====================================
+  - name: Velene Balefrost
+##=====================================
+    tags: [ Elf, Bookbinder, Telehorn Outpost ]
+    seen: Telehorn Outpost
+    notes: |-
+      Turned to dust, and made into a pile
+##=====================================
+  - name: Kelaria Brightleaf
+##=====================================
+    url: 'https://cdn.discordapp.com/attachments/615943709225123891/627980788520189967/Kelaria_commission_2_merge1_final.png'
+    events:
+      - limit: *kel
+      - Prelude:
+        - Brightleafs stayed in Marigrun since it was destroyed
+        - block: *kel
+        - Know that this is Boldrei's place of power
+        - Keep secret for enemies of Boldrei
+        - allow: *kel
+        - Established a clinic, treat injured, take donations
+        - Family is networked, friends, relatives
+        - Mother moved to Tierbern, became farmer
+        - Met father became Tavenkeeper
+      - 12 Years:
+        - Felt Connection with Boldrei
+        - " I wish you were never born "
+        - Prayed for Kaliopa's return
+        - Vision of Kaliopa in a cave
+        - Kidnapped by Criminals
+        - Healed sister
+    spoilers:
+      - sister is the chosen one
+      - kelaria is accused of witchcraft
+      - sister is killed
+      - boldrei reveals history
+      - dragon is waking
+##=====================================
+  - name: Kaliopa Brightleaf
+##=====================================
+    tags: [ halfling, cleric, brightleaf ]
+    seen: marigrun
+    events:
+      - limit: *kel
+      - 7 Years:
+        - Argued with Kelaria
+        - " I wish you were never born "
+        - Ran away
+        - 2 Nights
+        - block: *kel
+        - Kidnapped by the cult of Kankit Gilgeam Yei`yoot
+        - Possessed by Demon, given charm of praise
+        - allow: *kel
+    notes: |-
+
+##=====================================
+  - name: Vorux Elk
+##=====================================
+    tags: [ elf, criminal ]
+    events:
+      - limit: *vor
+##=====================================
+##=====================================
+  - name: Mariria Zethergyll
+##=====================================
+    tags: [ human, prostitute, criminal ]
+    seen: thornwell
+    events:
+      - limit: *vor
+      - Slept with Vorux
+      - Tries to pay off her whoremonger for freedom
+##=====================================
+  - name: Beattle Beattle, the Bornescht Beetle
+##=====================================
+    tags: [ alchemy, orc ]
+    notes: |-
+      Bred and Trained for the entertainment of Orcs
+      Beattle dominated the arena near Griffinfire Hamlet
+      Winning his Orc many bets, he was captured by
+      *alp
+      And now finds adventure with his new allies
+##=====================================
+  - name: Detla Kamice
+##=====================================
+    tags: [ ranger ]
+##=====================================
+  - name: Anton Filbersh
+##=====================================
+    tags: [ prarios, ranger ]
+    notes: |-
+      Running away from heartbreak with Detla Kamice
+##=====================================
+  - name: Jeritt Vambala
+##=====================================
+    tags: [ criminal, murderer, redeemed ]
+##=====================================
+  - name: Jeritt Vambala
+##=====================================
+    tags: [ criminal, murderer, redeemed ]
+##=====================================
+  - name: Kadu Kalanar
+##=====================================
+    tags: [ royalty, kalanar, mainland, hunter ]
+    seen: Loremoss Woods
+    events:
+       - attacks bear
+       - party stops
+##=====================================
+  - name: Aevan Armanci
+##=====================================
+    tags: [ criminal, bandit, dead ]
+    seen: Constable Tower
+##=====================================
+  - name: Boldrei, Goddess of Protection
+##=====================================
+    tags: [ deity, protection, boldrei ]
+    notes: |-
+      Followers wear Blue / Orange
+##=====================================
+  - name: Kankit Gilgeam Yei`yoot
+##=====================================
+    tags: [ patron, demon ]
+    spoilers:
+##=====================================
+  - name: Markus Lynchfield
+##=====================================
+    tags: [ human, tinkerer, mentor ]
+    seen: orn'tal
+    events:
+      - purchased / revived adamah
+      - hacked to only use machinist
+      - taught vosenhaut children science
+##=====================================
+  - name: Theo ???
+##=====================================
+##=====================================
+  - name: *ada
+    tags: [ artificer ]
+    data:
+      - Warforged
+    spoilers:
+      - Finds memory banks
+      - Other OS takes over when unconscious
+      - Realizes Vyse Vosenhaut is not manufacturer
+      - Theo is a small warforged and saves him
+##=====================================
+##=====================================
+  - name: Alarcion Stormwolf
+##=====================================
+    tags: [ royalty, ravensong fort, orn'tal ]
+    data:
+      - Elf, Male
+      - King of Ravensong Fort
+      - Falls in Love with Lagazi Elgara
+      - Impregnates
+##=====================================
+  - name: &caerFl Caerlos Fletcher
+##=====================================
+    data:
+      - Scribe
+      - Failed Adventurer
+      - [ Brought, *bookCaHe, to Din Kthyr ]
+##=====================================
+  - name: Lagazi Elgara
+##=====================================
+    data:
+      - Elf, Female
+      - Royal Concubine of Ravensong Fort
+      - Falls in Love with Alarcion Stormwolf
+      - Pregnant
+      - Leaves Ravensong Fort due to Political Toxicity
+      - Gives birth to Ashe Gillain
+      - Passes daughter to Myla Gillain
+##=====================================
+  - name: Myla Gillain
+##=====================================
+    data:
+      - Elf, Female
+      - Soldier of Ravensong Fort
+      - Ashe Gillain's adoptive mother
+##=====================================
+  - name: Snorre Umbermoor
+##=====================================
+    data:
+      - Human, Male
+      - Marries Myla Gillain
+      - Dies saving Ashe Gillain
+##=====================================
+  - name: Haesoe Umbermoor, the Half-elf Brother
+##=====================================
+    data:
+    - 5 Years younger
+##=====================================
+  - name: *ash
+##=====================================
+    alias:
+      - Abelas Elgara
+      - Sorrow of the Sun
+    tags: [ player ]
+    data:
+    spoilers:
+      - Finds Cult, and brother
+      - Brother is Evil
+      - Cult is looking for Viona Vosenhaut
+      - Is offered Warlock Pact by the Ear
+    notes: |-
+##=====================================
+  - name: *vys
+##=====================================
+    skills:
+      - smile: 4
+    spoilers:
+      - middle sister contacts in a dream
+##=====================================
+  - name: *mug
+##=====================================
+    skills:
+      - healing word: [ 7, +1hr, -1hd ]
+    goods:
+      - Rememberance Stone
+    spoilers:
+      - grandmother isn't dead
+      - join moon hemlock
+      - blood required to sleep the dragon
+##=====================================
+  - name: Theodorus Kathyr
+##=====================================
+##=====================================
+  - name: Sophya Kathyr
+##=====================================
+##=====================================
+  - name: Daemiin Vrye
+##=====================================
+##=====================================
+  - name: *din
+##=====================================
+    tags: [ player ]
+    data:
+    spoilers:
+      - Meets with undead Din
+      - Finds parents
+      - Comes upon the temple in Marigrun
+      - Knows all languages required
+      - Ends up having to choose between parents and releasing the Dins
+    notes: |-
