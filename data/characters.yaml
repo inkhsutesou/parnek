@@ -27,11 +27,20 @@ characters:
     notes: |-
       Fiona Fox Endtrot
 ##=====================================
+  - name: Bemela Cobbelin
+##=====================================
+    tags: [ human, cobbelin, nobility ]
+    seen: Orn'tal
+    notes: |-
+      - Eldest Sister (1st)
+      - Fierce Warrior
+##=====================================
   - name: Imaena Cobbelin
 ##=====================================
     tags: [ human, cobbelin, nobility ]
     seen: Orn'tal
     notes: |-
+      - Younger Sister (2nd)
       Betrothed to Vyse Vosenhaut
 ##=====================================
   - name: Velene Balefrost
