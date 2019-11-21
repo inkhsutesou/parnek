@@ -30,6 +30,18 @@ places:
     limit: *players
     tags: [ nation, vosenhaut ]
 ##=====================================
+    Kjeseta:
+##=====================================
+      generator: http://fantasycities.watabou.ru/?size=23&seed=360678655&name=Kjeseta&hub=0&random=0&citadel=1&plaza=1&temple=1&walls=1&shantytown=1&river=0&coast=1
+      notes: |-
+        During the disaster a century ago
+        Kjeseta was destroyed the least
+        Although during that time, the entire coast was in need
+        Kjeseta was conservative with the aid they gave to other villages and towns
+        But it prioritized itself
+        This was largely exaggerated and they gained the reputation of greedy misers
+        This was also where the Golden Ferrit line was started although most of their operations have moved to Deru
+##=====================================
     Alvecia:
 ##=====================================
       area: 1.820 M km²
