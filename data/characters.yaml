@@ -202,7 +202,7 @@ characters:
     data:
       - Scribe
       - Failed Adventurer
-      - [ Brought, *bookCaHe, to Din Kthyr ]
+      - [ Brought, bookCaHe, to Din Kthyr ]
 ##=====================================
   - name: Lagazi Elgara
 ##=====================================
