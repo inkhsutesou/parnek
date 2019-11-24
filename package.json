@@ -8,33 +8,18 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "3.0.0": "^3.0.0",
-    "css-loader": "^3.2.0",
     "cz-conventional-changelog": "^3.0.2",
     "file-loader": "^4.2.0",
-    "headless-chrome-crawler": "^1.8.0",
-    "hoek": "^4.2.1",
-    "jasmine-core": "^3.1.0",
     "json-loader": "^0.5.7",
-    "karma": "^4.4.1",
-    "karma-chrome-launcher": "^2.2.0",
-    "karma-jasmine": "^1.1.2",
-    "karma-webpack": "^3.0.0",
-    "less": "^2.3.1",
-    "less-loader": "^5.0.0",
-    "node-sass": "^4.8.3",
-    "redis": "^2.8.0",
-    "style-loader": "^0.21.0",
+    "yaml-loader": "^0.5.0",
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.10",
-    "webpack-dev-server": "^3.1.3",
-    "yaml-loader": "^0.5.0"
+    "webpack-dev-server": "^3.1.3"
   },
   "scripts": {
     "build": "webpack --config webpack.config.js",
     "server": "webpack-dev-server",
-    "start": "npm run build | npm run server",
-    "test": "karma start ./karma.config.js"
+    "start": "npm run build | npm run server"
   },
   "repository": {
     "type": "git",

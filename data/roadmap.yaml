@@ -4,11 +4,87 @@ roadmap:
 ##=====================================
   workspace:
 ##=====================================
-    - Ashe Gillain, how do I write a redemption arc for a morally bankrupt character ?
-    - Build the bonds between Kelaria, Ashe, Vyse, Din, Adamah:
-      - Ashe Gillain:
+  questions:
+    - What season is every character born in ?
+    - Is Lagazi Elgara (Ash`s Mother) dead ?
+  ideas:
+    - Critical fail 1 or 2
+    - One of your DCs is raised by 1
+    - AC raised by 1
+    - AtkRoll raised by 1
+    - Prevent a Disadvantage
+  hooks:
+    - Moon Hemlock ( Mugnila, Din )
+    - Orc Note - To speak to the dead ( Mugnila, Vyse, Din )
+    - Cochlea Stone
+    - Elgara Family Insignia
+    - Din`s Parents, Information on the Fog
+  Backlog: |-
+
+    spoilers:
+      - sister is the chosen one
+      - kelaria is accused of witchcraft
+      - sister is killed
+      - boldrei reveals history
+      - dragon is waking
+    spoilers:
+      - Finds Cult, and brother
+      - Brother is Evil
+      - Cult is looking for Viona Vosenhaut
+      - Is offered Warlock Pact by the Ear
+    spoilers:
+      - middle sister contacts in a dream
+    spoilers:
+      - Meets with undead Din
+      - Finds parents
+      - Comes upon the temple in Marigrun
+      - Knows all languages required
+      - Ends up having to choose between parents and releasing the Dins
+    spoilers:
+      - Finds memory banks
+      - Other OS takes over when unconscious
+      - Realizes Vyse Vosenhaut is not manufacturer
+      - Theo is a small warforged and saves him
+
+
+  - Orcs of <Where Vorux is now> now rule Bluefield
+  -
+  marigrun sends boats to capture kelaria
+  if capture
+  kelopia is the high priestess of Marigrun
+  she agrees to help Kelaria escape but must banish her
+  each is asked to be questioned by Kelopia
+  vyse, din, adamah
+  where are you from
+  what do you know of orntal, orcish hordes, deru
+  what is this ?  item from their inventory
+  how do you know kelaria/vendrick
+
+  Ash is called to meet with but must wait
+  while waiting is approached by spectres in the waiting room
+  grossly desperate starved elven children they attempt to kill her
+  you should have joined with us
+  he will destroy more than us
+  he destroyed us, because you let him
+  reveal brother
+  they leave into the room
+  kelopia only asks about orntal
+  prarios arrives in Marigrun and has a new competent spokesperson
+  veladin cornette, elven diplomat
+  - the location of mugnila
+  - demands kelaria be given over on grounds of witchcraft
+
+  kelopia, I`m sorry, and delivers to prarios
+    - Din Kthyr:
+      - More covert magic scenes
+      - More discovery through books and history
+    - Adamah Machinist II:
+      - Why is Magic Evil ?  We need more Warlocks
+    - Ash Gillain, how do I write a redemption arc for a morally bankrupt character ?
+    - Build the bonds between Kelaria, Ash, Vyse, Din, Adamah:
+      - Ash Gillain:
         - Buying Bracelets
-        - OBSTACLE | I want Ashe to learn more about herself and face moral questions:
+        - OBSTACLE | I want Ash to learn more about herself and face moral questions:
           - GOAL | Introduce a moral dilemma
       - Kelaria Brightleaf:
         - Approaching Pickpocket
@@ -24,18 +100,18 @@ roadmap:
           - SOLUTION | Can be messaged ?
       - Din Kthyr:
         - Casting Disguise
-        - HOOK | 
+        - HOOK |
 ##=====================================
   next:
 ##=====================================
     - Adamah needs wooden planks
-    - Ashe Gillain | Bracelet shopping, Ohhh ..  What you're looking for you'll want ..  Why don't you wait here ?
+    - Ash Gillain | Bracelet shopping, Ohhh ..  What you're looking for you'll want ..  Why don't you wait here ?
     - Vyse learns of Pit Fighting
     - Pickpocket denies and walks off to the back, disappears into the Jagged Quarry
     - Mist informant comes and then a slow ambush attempts to take Kelaria Brightleaf
-    - Mist bargains with Din Kthyr, Lailayoka checks in and might be able to get Ashe
+    - Mist bargains with Din Kthyr, Lailayoka checks in and might be able to get Ash
     - Mist Sorcerer calls upon Kankit Gilgeam Yei`yoot
-    - Ashe Gillain | Kelaria can stave away the demons
+    - Ash Gillain | Kelaria can stave away the demons
     - Keliope Brightleaf | 'Not order death.  Marigrun Dangerous.  Boldrei keep thee safe.'
 
     - Final battle archers
@@ -50,8 +126,8 @@ roadmap:
     - Introduce Keyani Brof:
       - Elven Boy
       - ' Boldrei gives me visions, visions of a cave '
-      
-    
+
+
     - Cave:
       - Trap, waist high in quicksand
       - Mist, arrives
@@ -74,33 +150,45 @@ roadmap:
 ##=====================================
   Mist:
 ##=====================================
-    - Criminal Organization
-    - Kvork Koent, Dwarven Artefact Worker kidnapped by the Orcs
-    - Praxana Skandalor, the Elven Female Informant gone missing
+    is: Criminal Organization
+    wants: Coin
+    plotList:
+      - Kvork Koent, Dwarven Artefact Worker kidnapped by the Orcs
+      - Praxana Skandalor, the Elven Female Informant gone missing
 
 ##=====================================
   Orcs of Mk`tak Las:
 ##=====================================
-    - Rule Bluefield
-    - Siege Tholn`den and Deru
-    - Searching for dwarves to unlock their artefact to speak with dead warlord
+    is: Orc Horde
+    wants: Rule Parnek under dead Warlord Thar Umbermoor Mk`tak
+    plotList:
+      - Rule Bluefield
+      - Sieging Tholn`den and Deru
+      - Searching for dwarves to unlock their artefact to speak with dead warlord
+      - Has Kvork Koent
 
 ##=====================================
   House Cobbelin:
 ##=====================================
-    - Imaena Cobbelin, grieves the death of Vyse Vosenhaut
-    - Cobbelins believe that Vyse Vosenhaut was kidnapped and killed by Duencian Government as an act of power
-    - Bemela Cobbelin, War against Orcs of Mk`tak Las
+    is: Orn`tal Noble House
+    wants: Rule Alvencia, avenge Vyse Vosenhaut
+    plotList:
+      - Imaena Cobbelin, grieves the death of Vyse Vosenhaut
+      - Cobbelins believe that Vyse Vosenhaut was kidnapped and killed by Duencian Government
+      - Bemela Cobbelin, War against Orcs of Mk`tak Las
 
 ##=====================================
   House Vosenhaut:
 ##=====================================
-    - Vyse Vosenhaut, heading back to Tholn'den
+    is: Orn`tal Noble House
+    wants: Rule Alvencia, avenge Vyse Vosenhaut
+    plotList:
+    - Vendrick Vosenhaut, heading back to Tholn`den
     - Will use rage potion to incite political betrayal in those who do not join
     - Deru becomes Capital of H-Orcs/Tieflings
     - Deru eventually manages to convince the Orcs into a truce with the help of H-Orcs
-    - Ferret's Wart
-      - Ungrowable in Orn'tal
+    - Ferret`s Wart:
+      - Ungrowable in Orn`tal
       - Cheaply purify mithril ore into mithril
       - Used to create mithril weapons and turn ordinary soldiers deadly
 

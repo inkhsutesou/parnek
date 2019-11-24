@@ -2,6 +2,46 @@
 lore:
 ##=========================================================
 ##=====================================
+  - name: Camaret Caveal's Spellbook
+##=====================================
+    tags: [ magic ]
+    contents:
+      - Lv4 Create Earthen Heart
+      - Lv3 Vampiric Touch
+      - Lv2 Mind Spike
+      - Lv2 Melf's Acid Arrow
+      - Can Encode Thoughts
+    effect: |-
+      The spellbook had seen much adventure, pages made of cloth and paper have been mixed and matched.
+      Some of these pages had a mixture of mud and blood on them.  Turning over the pages you see this
+      book was more than notes of arcane wizardry ..
+
+      A torn sheet held against a sheet above a yet deciphiral text not in the handwriting of Camaret.
+      ' I'll always Love you '
+
+      As you continue to decipher the pages, you also come upon some notes scrawled on the corner
+      ' What does the mist know ?  Twelvet Dwarf, must avoid '
+
+      This page doesn't seem to have any magics, but seemed to be a plan.  The medical drawing of a mouth
+      without a tongue, with several blueprints of a metal or magical additions.  ' Ask Kvork Koent '
+
+      Here there seems to be the plans of encoding thoughts, on it is a note, ' I cannot hide away my
+      feelings to you any longer.  The secret of you burns in me and I would risk everything my father
+      has worked for just to send this to you ..  Camaret, my Love.  I do not care of your wizardry
+      and if what I feel is bewitchment then so be it.  I will tell my father about us and he will find
+      a way for us to be together. '
+
+      Eventually the plan for an item is crossed out and instead there seems to be a ritual that seems
+      to grant those who do it a limited method to Encode Thoughts ..  It involves the preparation and
+      eating the brain of a mind flayer.  Other ingredients as listed - mind flayer brain, katreas mushroom,
+      pinch of powdered whisper stone
+##=====================================
+  - name: Katreas Mushroom
+##=====================================
+    tags: [ alchemy ]
+    effect: |-
+      a binding agent made to make permanent curses or blessings
+##=====================================
   - name: Bornescht Beetle
 ##=====================================
     tags: [ alchemy ]
@@ -14,8 +54,11 @@ lore:
     effect: |-
       addMixture( removeFever )
 ##=====================================
-  - name: Cochlea Stone
+  - name: Cochlea Whisper Stone
 ##=====================================
+    tags: [ alchemy, whisper ]
+    effect: |-
+      addMixture( removeFever )
 ##=====================================
   - name: Rememberance Stone
 ##=====================================
@@ -38,7 +81,7 @@ lore:
     notes: |-
       - A strange smooth stone, it emits a faint bitter scent
 ##=====================================
-  - name: &bookCaHe The true story behind Calsar Hei'Sang
+  - name: The true story behind Calsar Hei'Sang
 ##=====================================
     tags: [ book, infernal ]
     notes: |-
@@ -48,13 +91,13 @@ lore:
       - Symbol a flower shaped like the Moon
       - Vanished in Marigrun
 ##=====================================
-  - name: &foodBiAl Bitter Ale
+  - name: Bitter Ale
 ##=====================================
     tags: food
     grade: ★★★✬☆
     effect: > isSave(con, 12) ? CHA+1 : addProp(sleep)
 ##=====================================
-  - name: &foodWaMe Watered Mead
+  - name: Watered Mead
 ##=====================================
     tags: food
     grade: ☆☆☆☆☆
@@ -67,7 +110,7 @@ lore:
     effect: >
     grade: ☆☆☆☆☆
 ##=====================================
-  - name: &foodRaSs Radish Soft Slices
+  - name: Radish Soft Slices
 ##=====================================
     tags: food
     grade: ★★★✬☆

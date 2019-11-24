@@ -1,0 +1,886 @@
+# Parnek 20190804
+
+## [xo] Story
+### [+a] 20190722 - Session 0 - Adama Machinist II
+- [a] Unearthed
+  - [a] Adama Machinist II is overpowered
+  - [a] Reprogrammed by Markus Lynchfield
+  - [a] Sold to Vendrik Vosenhaut
+- [ ] The destruction of Tholn'den
+  - [ ] Given Spyglass, keep an eye on Vendrik Vosenhaut
+  - [ ] Kidnap a Royal Courtmember bring them to Din, the Many
+  - [ ] Vendrik Vosenhaut in trouble when Din, the Many fireballs the ship
+  - [ ] Rescue from water
+  - [ ] Given the task to hunt Vendrik Vosenhaut
+
+### [+d] 20190722 - Session 0 - Din Kthyr
+- [ ] Hear that Mainlanders have arrived in Tholn'den
+  - [ ] Go to Tholn'den, scrap for coin
+
+### [+s] 20190722 - Session 0 - Ash Ghillain
+- [ ] The demon within asks for
+
+### [+x] 20190607 - Session 1
+- [x] Introduction
+  - [x] Vyse Vosenhaut arrives in Tholn'den by Ship
+  - [x] Black cloaked wizard boat Tholn'den registry
+  - [x] Market District - Wait, Horses being sold
+  - [x] Mugnila arrives in Tholn'den, two bandits
+  - [x] Guard and investigation about ears
+  - [x] Kelaria reaches Tholn'den does registry
+  - [x] A child with missing ear and parents are nearby
+  - [x] parents explain attacked from the southern forest
+  - [x] Night comes possible tavern ?
+  - [x] Information on thugs lead forest
+  - [x] Forest has warlock, `The Ear`
+
+### [+x] 20190614 - Session 2
+- [v] Approached by `The Ear`
+- [x] Koram Camlin, I have an idea where my family is !
+  - [x] After checking the royal registry
+  - [x] Viola Vosenhaut traveled north to Marigrun 6mos ago
+- [x] Pick up the bounty !
+  - [x] 32c
+  - [x] Vyse off probation
+  - [x] Interrogate the prisoners
+  - [x] Attempts to escape
+  - [x] Prisoner is killed
+- [x] Gilenth, the Shaister
+  - [x] Cup and Ball gambler calls upon party
+  - [x] Pickpocket
+  - [x] Cause combat
+  - [x] Resolve thieves
+- [x] Ali Soviak, my wolf pelts were stolen !
+  - [x] Dealer were new but offered same price
+  - [x] Took pelts and ran into sewers
+  - [x] Sewers lead outside into the Loremoss Greys
+  - [x] Wolf pelts were back in The Ear's place
+  - [x] 6/10 Bandits are there looting, else looted
+  - [x] Jeritt the redeemed
+  - [x] Explain the Ear
+  - [x] Confirm Tiefling Mother Death
+  - [x] Get Tiefling Mother Ring
+    - [x] [s3] " Love through all Hardship "
+  - [x] 20c
+- [x] The Drained Man, Cole
+  - [x] Arrival, healed
+  - [x] Found bloody thorn inn
+- [x] Zansa'ba Coppice, the leader of Telehorn Outpost
+  - [x] Mainlanders
+  - [x] Concern
+  - [x] Fluffy eggs and Mead
+  - [x] Cochlea Stone explanation
+  - [x] Cochlea Stone tries to bond with Grandmother
+  - [x] Bring Cochlea Stone to Temple of Boldrei
+  - [x] [s3] 52c
+
+### [+x] 20190621 - Session 3
+  - [x] The Iron Jewelry Box
+    - [x] Find Blacksmith
+    - [x] Purchase Iron Box
+    - [x] 15c debt
+  - [x] Bear attack !
+    - [x] Mother Bear attacking merchants
+    - [x] Party comes upon them
+    - [x] PERCEPTION 14: Merchants have bear cubs in caravan
+    - [v] INSIGHT 14: Merchants are Mainlander Hunters
+    - [x] Hunters x 4 + Bear
+    - [x] Hunters driving away with Cubs
+    - [x] Cages can be broken and Cubs may also fight
+    - [x] Father bear arrives, Cubs released
+    - [x] Kadu, Hunter
+      - [x] 21c, Meat Pie
+    - [v] Vyse takes Kalanar Symbol
+      - [v] -5c
+  - [k] [s4] She [2c] and Ali[20c] need to make good on their bet
+  - [x] The send off
+    - [x] Party gets to Temple of Boldrei by dawn
+    - [x] Mugnila tells Madislav that his mother dead
+    - [x] Imthar wants Cochlea Stone
+    - We will take this to Bar'nala, Mar-Ove
+    - Other patron stones are in the Temple of Kanos
+    - [x] Jeritt Vambala, to be taken care of by Temple of Boldrei
+    - [x] Worshippers of Prarios comes and demands the cooperation of Priests of Boldrei
+    - [x] Earth Tremor trips Prarios
+    - [x] Are you not here to protect ?
+    - [x] Imthar agrees to help
+    - [x] Anton Filbersh
+      - [x] Joined Worshippers of Priaros
+      - Running away from the pain of his heartbreak with Detla Kamice
+    - [k] Brica, the Boldrei Priestess tells Kelaria to speak with Eurlich
+    - [x] Bar crawl
+    - [x] Mugnila reveals her new song, everyone sings along
+    - [x] Night comes party sleeps
+    - [x] KLRA: Dream of the destruction, warn them
+
+### [+x] 20190628 - Session 4
+  - [x] The Invasion of Tholn'den I
+    - [x] Tavern is destroyed by catapult
+    - [x] Kelaria claustraphobia
+    - [x] Ships release lower decks soldiers of Vosenhaut && Cobbelin
+    - [x] Tholn'den guard is greased and caught on fire
+    - [x] Soldiers capturing citizens in cage wagons
+      - [x] Possibly they capture Vyse/Party
+    - [x] Worshippers of Prarios defend citizens allowing many to escape
+    - [v] Youngest brother claims Vyse Vosenhaut is dead
+    - [v] Youngest brother trying to kill Vyse Vosenhaut
+    - [x] Party escapes ship
+      - [x] Party meets Steini Herlison
+        - [x] Soldier
+    - [x] Din within the constable's tower
+    - [x] Din, the Many demands surrender Ilham Inot refuses
+    - [x] Din, the Blackened destroys Telehorn Outpost
+
+### [+x] 20190705 - Session 5
+  - [x] The Invasion of Tholn'den I
+    - [x] Din, the Blackened wants to destroy more stuff but the others stop him
+    - [x] Steveren Goldrudder saves Kelaria and Vyse
+      - [x] Marigrun, small island off coast with a singing cave
+      - Hoarse voice
+      - [x] Royal Advisor
+      - [x] Kelaria and allows players to escape
+    - [x] Prarios Clerics cause runaway horses tramples citizens + guards alike
+    - VYSE: Eldest brother trying to claim Alvecia, Parnek not arrived yet
+    - [x] Stupidfoot, the Browne white blotches horse
+    - [x] Twigsnap, an older grey horse, very muscular
+      - [x] Is not dust
+      - [x] Defend self, help others
+      - Meets Tiefling Boy
+    - [x] Velene Balefrost, Female Elf Bookbinder
+    - [x] The ruins of Telehorn Outpost
+      - [x] Each of the citizens are replaced by a statue which crumbles
+      - [x] Jeritt Vambala, is alive
+    - [x] Grandmother statue is writing a list
+      - [x] Hare's Fern, Frog Rose, Moon Hemlock
+    - [x] Desperation Conflict, Pugs general store
+      - [x] Faced against:
+        - [x] Vil Daggersharp, Bram Graylock, Reznik Huba
+        - [x] Resolved conflict with little bloodshed
+    - [x] Refugee Fundraising
+      - [x] Mugnila Coppice raised 25c with the help of the party
+    - [x] The party takes a long rest in the Galleon Arms
+      - [k] Boldrei Dream shares a tune: → ⇗ → ⇘
+    - [x] A mysterious informant
+      - [x] " The Mainlanders have a secret weapon, for five silver I'll let you know what it is "
+        - Adamah Machinist II
+      - [x] No deal: Informant disappears
+    - [m] Mugnila Coppice gives 20c to Lily Silverfin in hopes to aid the Refugees
+
+### [+x] 20190712 - Session 6
+  - [x] An Excellent Breakfast
+    - [x] Jeritt Vambala begins to eat
+  - [mv] Rowdy children fighting
+    - [mv] Ulrich Cresthill is the best puncher !
+    - [mv] Vyse Vosenhaut teaches Ulrich Cresthill a better way to punch
+    - [mv] ~ He swung so hard with his lumberous body that he was forced to stomp each time ~
+  - [mv] A lesson in economics
+  - [k] To set a broken bone ..
+    - [k] Taught bone setting to refugee medics
+  - [x] Witchcraft !  Devilry !
+    - [x] PERCEPTION: Party notices the hooded informant
+    - [x] Mugnila Coppice casts entangle in public
+      - [x] Suspected/Assured of Witchcraft
+      - (7) Commoners willing to take action
+    - [x] Kelaria Brightleaf attempts to publicly accept Mugnila Coppice
+      - Kelaria Brightleaf's reputation is now marred
+  - [x] Trash Games
+    - [x] Party follows the informant
+    - [x] Informant leads them to Savages and are attacked
+    - [x] Mugnila Coppice chases after Informant
+    - [x] Kelaria Brightleaf + Vyse Vosenhaut are captured
+  - [m] Distance Running
+    - [m] Mugnila Coppice chases after Informant with wildshape
+    - [m] Informant leads Mugnila Coppice into a Wolf ambush
+      - [m] Stopped by Spike Growth
+    - [m] Entangle nearly manages to kill the Informant
+      - [m] Ali Soviak comes and attempts to help
+        - [m] Confused he doesn't manage to be much help
+    - [m] Informant manages to get away
+  - [kv] Savage Camp
+    - [v] Manages to stay awake and act unconscious, steals keys
+    - [kv] Have a long talk
+      - [kv] He left his family to avoid responsibility
+      - [kv] Found by monks and trained
+      - [kv] Was kicked out
+    - [kv] They meet ??? Gnome whom helps them escape
+    - [kv] Savages are sleeping on dead bodies .. ?
+  - [x] A long restful camp
+    - [x] Resting in Ali Soviak's Tent
+    - [x] Skywrite " Your Game is Rubbish .. "
+
+### [+x] 20190719 - Session 7
+  - [x] Kelaria Lightfoot and Ali Soviak leave to pick up the wagons and horses from Bluefield
+    - [k] Upon entering, they are looked up with scorned glances
+    - [k] Finds Jeritt Vambala asleep after helping bandage refugees
+      - [ ] Sanity ★★☆☆☆
+    - [k] The horses are gone, the wagon smAshd
+      - [k] INVESTIGATE: Devil is written on the wagon
+    - [k] Ali Soviak leaves
+      - [k] " I think we should separate for some time "
+    - [k] An angry mob comes to drive Kelaria Lightfoot out
+    - [k] Worshippers of Prarios are here leading this mob
+    - [k] Casted Shield of Faith to block an attack from Prarios
+    - [k] Jeritt Vambala tries to defend Kelaria Lightfoot
+    - [k] From the crowd come those at Kelaria Lightfoot's defense
+      - [k] Pug's Would-be Robbers: Vil Daggersharp, Bram Graylock, Reznik Huba
+      - [k] Refugee assistants
+    - [k] Worshipper of Prarios: " The horses were chopped up and killed "
+    - Worshippers of Prarios have taken over the town of Bluefield
+      - Gargus Irongull tries to take control of his town of Bluefield
+      - Separated town into two, they fight and the non Woshippers of Prarios are submitted
+      - Uneasy truce between the Worshippers of Prarios and the town
+      - Worshippers of Prarios gain notoriety, kill the savages
+      - The town is united under Worshippers of Prarios
+  - [x] Vyse Vosenhaut and Mugnila Coppice leaves to track the Informant
+    - [vm] Tracked some wolves to their cliff den
+    - [vm] Animal Friendship + Speak with Animals
+    - [vm] Surrounded by wolves
+      - [vm] Mugnila Coppice names:
+        - [vm] RabbitHunter
+        - [vm] HumanStalker
+    - [vm] HumanStalker takes them south to a battle remains
+      - [vm] FOUND: A poisoned dagger
+      - [vm] FOUND: A mysterious gear bit
+    - [vm] Vyse Vosenhaut bribes HumanStalker to take them to where the Informant left
+    - [vm] Given a Meat Pie
+    - [vm] Promised the entire pack Meat Pies
+    - [vm] " PIEeeeeee-OOOOOOOOOOOOOOOOOO !! "
+    - [vm] Ride back to camp, the Informant returned to Bluefield
+    - The informant has returned to Tholn'den
+      - She has offered her information to Vendrik Vosenhaut
+      - Vendrik Vosenhaut knows where Vyse Vosenhaut is headed
+  - [x] The party re-unites
+    - [x] HumanStalker bites Kelaria Lightfoot
+      - [x] Mugnila Coppice is able to stop HumanStalker from eating Kelaria Lightfoot
+    - [x] " We need to go to Bluefield to make Meat Pies ! "
+    - [x] " We can't go back to Bluefield we need to leave now ! "
+    - [x] The party leaves for Griffinfire Hamlet
+      - [x] .. To get meat pies
+      - [x] .. To be closer to Marigrun
+    - [x] A caravan covered in Noble Guards of a Green Lion hold a Shield pass
+      - [x] STEALTH: Goes Unnoticed
+      - [x] INVESTIGATION: There seems to be people inside
+      - [x] Parnek Nobility
+      - The nobility of Deru
+        - Generations of True Nobles from 300 years ago who govern the Citadel of Deru
+        - Financial Ruin
+        - Nobility is trying to even it
+        - Merchants have stranglehold
+        - Stranglehold is superior economic grip
+        - Looking for help from the Mainlanders to regain their hold
+        - Vosenhaut will help, provided they gain
+          - Political stance within their Royal Court in Noble Marriages
+          - Military Information on others
+          - A decree of equality among races in Deru
+    - [x] Arrival in Griffinfire Hamlet
+      - [x] No one has heard of Mugnila Coppice's witchery here
+        - [x] Mugnila Coppice starts an 11 person song with the gate guards
+        - [x] PERSUASION: The guards give access to Mugnila Coppice for free
+        - [x] DECEPTION: Vyse Vosenhaut uses ?? Armador ?? as his name ?
+      - [x] Bought meat pies from Darrak Ramcrown
+      - [x] Vyse Vosenhaut returns to bring the Meat Pies to RabbitHunter
+        - [v] 1: Vyse Vosenhaut provokes RabbitHunter attempting to say its name
+        - [v] RabbitHunter attacks Vyse Vosenhaut, as he tries to run away
+        - [v] RabbitHunter returns home with the Meat Pies
+      - [x] Party arrives at the Temple of Anansa
+        - [x] Mugnila Coppice falls asleep under a tree surrounded by Hare's Fern
+        - [x] PERFORM: Mugnila Coppice snores very loudly
+        - [kv] The Priests of Anansa order that Mugnila Coppice leaves the Courtyard
+        - [kv] Kelaria Lightfoot and Clayre Goldrudder speak of Anansa and Boldrei culture
+          - [kv] "May Anansa spread throughout your life"
+          - [kv] Anansa Bow, right hand neck, left hand out
+        - [kv] Antonyr Strong carries Mugnila Coppice to her quarters
+          - [kv] Removes her packs and uncomfortable items and tucks her into bed
+          - [kv] Asks about Hare's Fern and where they might get it prepared
+          - [kv] " There is an Herbalist that I can direct you to "
+        - [v] Rests on a couch
+          - [v] Mugnila Coppice drops a sack
+            - [v] A small woolen bag stolen from Din the Many
+          - [v] Vyse Vosenhaut takes it
+        - [k] Kelaria Lightfoot shares guidance with Jeritt Vambala
+          - [k] " From sinful things can grow beauty "
+        - [k] Falls asleep under a tree
+
+### [+x] 20190726 - Session 8
+  - Alchemist talks about Hare's Fern
+    - Hare's Fern is used to treat fevers
+  - [x] Crier, be careful of Orc Raiders
+  - [x] Posted Note, Orcs seen in the area
+    - [x] List of dead
+    - [x] List of missing
+  - [x] Warn the Mayor of the Mainlanders !
+    - [x] Only wanted to see Kelaria
+    - [x] Hopes the Orcs remove Domitia Romazi
+    - [k] 2s 7c
+  - [x] Purchasing a Horse
+    - [x] Sniff of Wind
+      - [x] Injured Horse
+        - [x] Removed a hidden horseshoe nail
+      - [x] Unusually fast
+  - [x] Looting Orcs
+    - [x] 3c
+    - [x] Battle Beetle, the Blue Bornescht Beetle
+
+### [+x] 20190802 - Session 9
+  - [x] GET READY !
+  - [x]
+  - Orc Note
+    - Lost a lot of coin in Beetle Battle Betting
+    - Soon we take Griffinfire Hamlet, need more Ettin
+    - You owe me all your spoils for you-know-what
+    - Remember to bring dwarves alive.
+    - Grimmish reward if can make speak to dead
+  - Locket
+    - Girl White Dress
+  - Mosquito Bite
+    - Itch Counter III
+  - Exhaustion
+  - Bornescht Beetle
+  - Leads to underground lair in a cave off the side of a cliff
+  - Lair leads to an underground river which leads off far somewhere
+  - After Ettin Boss
+    - Hides a console, requires cochlea stone.  Able to speak with the dead
+  - Frog Rose's
+    - Settles stomache
+    - Also stops stomache vmovement
+  - Hare's Fern
+    - Settles fevers
+    - Also allows to hold their breathe
+  - Epekferes Refreshment
+    - When drinking this potion, roll all of your remaining hit die.  You gain that in hit points.  If there are no hit die, roll your maximum hit die and roll 1d6 and gain that much in exhaustion.  Halve this exhaustion on a successful constitution saving throw (dc:10)
+    - Epekferes Flower
+    - Honey ( Sugar Substitute: Causes 1 less hit die used )
+    - Powdered Iron ( If not powdered: Causes 1 hit die to damage instead )
+    - Alchemist Tools ( INT Check DC: 15 )
+      DC: 20 - +1hd
+      DC: 15 - Normal
+      DC: 10 - 1hd > dmg
+      DC: 05 - 1hd > dmg && -1hd
+      DC: 01 - 2hd > dmg
+  - Epekferes Flower
+    - Used to increase healing
+    - Makes one tired
+  - Moon Hemlock
+  - Have Vyse Vosenhaut state his name and then check his documents
+  - Madislak Carnago kills Jeritt Vambala
+    - Becomes a Warlock of the Ear
+      - Manipulated by things the players say
+    - With Twigsnap
+  - Marigrun Coast, many isles with Caves
+    - Cave → ⇗ → ⇘
+      - The secret temple of Boldrei
+  - Savage Camp
+    - Gone mad, cannibalism
+    - Worships some idea of savagery
+  - Party is attacked for Mugnila's " Witchcraft "
+    - 7 Enemies
+  - Come upon a field of Hare's Fern, Rabbit's Wart
+  - [ ] Travel Encounter Chart 30m
+      - Raiders
+          - Hiding in wait
+          - Attacks family/carriage
+      - Carriage
+          - Royalty bullies party off the road
+      - Crocodile
+          - Something hidden among the eggs
+      - Traveling Caravans
+          - One Magic Item
+          - Magic Items(fake)
+  - [ ] Character Based Scenes 30m
+  - [ ] Parnek Alpha 2h
+      - [ ] Folk Hero
+          - Legendary Road
+              - May roll charm to create a propogating fan
+          - Bar Song Starter
+              - Can take control of friendly NPCs in combat or a tavern
+      - [ ] Hermit
+          - Protective Spirit
+              - Gain/assign LV temp hp when dispelling fear
+      - [ ] Noble
+          - Reclusive Royalty
+              - NPCs may approach you instead when you make eye contact
+  - [ ] Parnek Omega 2h
+      - [ ] Looking for Neutral/Evil group
+      - [ ] Bounty Hunter ad
+      - [ ] Travel to Parnek ad
+      - [ ] Parnek Invasion ad
+  - MUGN: Place out of range
+  - MUGN: Elemental damage
+  - VYSE: Eldest sister can save them in a jam
+  - VYSE: Younger sister can find them
+  - VYSE: Force manual labor
+  - VYSE: A damn good liar
+  - VYSE: Royal decorum and manners
+  - VYSE: Hallway Slicer trap
+  - MUGN: Grandmother can save them in a jam
+  - MUGN: Boss warnings
+  - MUGN: Dark caves
+  - MUGN: NPC Tholn'den blackmails for magic, needs a favor instead
+  - KLRA: Break something
+  - KLRA: Injured illness, sick
+  - KLRA: Distress, wailing baby
+  - KLRA: Spoiler dreams on long rest let her see what is to come
+  - KLRA: Sister is actually chosen one
+  - KLRA: Sister dies
+  - JOIN: Warlock of `The Ear`, M/F
+  - JOIN: Mage of Time, M/F
+  - JOIN: Any, F, Kera
+###
+
+## [xo] Land
+### [+xo] Orn'Tal, the Mainland
+  - [v] 33.698 M km²
+  - [v] House of Kalanar
+  - [+v] Tholn
+    - [v] Cobbelin Noble Family
+      - [v] Bemela Cobbelin
+        - [v] Eldest Sister (1st)
+        - [v] Fierce Warrior
+      - [v] Imaena Cobbelin
+        - [v] Youngest Sister (2nd)
+        - [v] Betrothed to Vyse Vosenhaut
+  - [+v] Vaptog
+    - [v] 1.962 M km²
+    - [x] Vosenhaut Noble Estate
+    - [v] Elten community monastery
+### [xo] Parnek, the lost Continent
+  - [m] 7.692 M km²
+  - [x] Alvecia
+    - [m] 1.820 M km²
+    - [x] 🌳 Stormy Alder Woods
+    - [+x] Loremoss Woods
+      - [x] " The Moss tells stories .. "
+      - [+x] 🏰 Telehorn Outpost
+        - [x] ![](./assets/citadels/telehorn_outpost.png "Telehorn Outpost")
+    - [+x] 🏰 Tholn'den
+      - [x] ![](./assets/citadels/tholn'den.png "Tholn'den")
+      - [x] Capital of Mesym
+      - [x] 🏠 Constable's Tower
+      - [x] 🏠 The Iron Shield
+      - [x] 🏠 The Minstrel's Chariot
+        - [x] Boarded Windows
+        - [x] ★★★✬☆ 🍺 Bitter
+      - [x] 🏠 The Bloody Thorn
+        - [x] ☆☆☆☆☆ 🍺 Alcohol
+        - [x] ★★★✬☆ 🍺 Radish Soft Slices
+        - [x] 2c a room
+      - [x] 🏠 The Sword Inn
+        - [x] ★✬☆☆☆ 🍞 Bland Meat and Potato Stew
+        - [x] ✬☆☆☆☆ 🍺 Ale
+        - [x] Mainlander Refuge
+        - [x] Tholn'den Guard probation checkpoint
+        - [x] Bread is optional
+      - [x] 🏠 The Broken Haberdash
+        - [x] Worshippers of Priaros
+      - [x] 🏛 Shrine of Boldrei
+        - [x] ★★★✬☆ 🍞 Meat Pie
+    - [+x] 🏰 Wabow
+      - [x] ![](./assets/citadels/wabow.png "Wabow")
+      - [x] Once competed to be the Capital of Alvecia
+    - [+x] 🏰 Griffinfire Hamlet
+      - [x] ![](./assets/citadels/griffinfire_hamlet.png "Griffinfire Hamlet")
+        - The Exalted Bakery
+          - [x] ★★★✬☆ 🍞 Meat Pie [1hd]
+          - [x] ★★☆☆☆ 🍞 Meat Pasty [d4]
+        - The Half Full Flask
+        - The Azure Cauldron
+    - [+x] 🏰 Bluefield
+      - [x] ![](./assets/citadels/bluefield.png "Bluefield")
+      - [x] 🏠 The Galleon Arms
+        - [x] ★★★★☆ 🍞 Mash and Steak Gravy [d6]
+        - [x] ★★★★✬ 🍞 Eggs and Bacon [d6]
+    - [+x] 🏰 Marigrun
+      - [x] Destroyed by hurricane 99 years ago
+    - [+k] 🏰 Tiebern
+      - [k] Small Town
+      - [k] Diversely aid Marigruns
+      - [k] The Courageous Crabs
+        - [k] ★★★✬☆ 🍞 Steamed Buttered Crab Leg []
+        - [k] ✬✬✬☆☆ 🍺 Steamed Honey Mead [d8i]
+  - [+] Mar-Ove
+    - 1.4 M km²
+    - 🏰 Bar'nala ![](./assets/citadels/bar'nala.png "Bar'nala")
+      - Temple of Kanos
+        - Handles stones of patrons
+        - Has vault
+        - Viona Vosenhaut needs a stone in order to do empower Boldrei
+###
+## [+xo] People
+- [x] Anansa, Goddess of Beauty
+  - Cursed Parnek with desirability
+  - " May Anansa spread throughout your life "
+- [x] Boldrei, Goddess of Protection
+  - Sends Falok Demin to Ludo Thatkar save Parnek
+- Kanos, God of Speech
+  - Restricts a lot of speech
+  - Tries to stop communication with mortals and patrons
+- [x] Prarios, God of Exclusivity
+  - [x] Wishes to keep the Fog and exclude mainlanders
+- Hazen'braouto, the Sealed Red Dragon of Stone
+  - The heat of this dragon causes the fog around the Parnek
+- Haladron Parnek, the Human King
+  - Organization: Royalty
+  - Flaunted his wealth and military position
+  - Teased other nations selfishly
+  - Teased the gods themselves, building and felling temples
+- Ludo Thatkar, the Elven Wizard
+  - Moon Hemlock, First Member
+  - Has solution to banish Parnek
+- Falok Demin, the Tiefling Cleric/Warlock
+  - Moon Hemlock, Second Member
+  - Vision of Boldrei, lead to Ludo Thatkar
+- [?x] Zansa'ba Coppice, the Dwarven Matriarch of Telehorn Outpost
+  - Druid
+  - [<] What ye say ?  Speak up !  I can't hear ye
+  - [x] Home: Telehorn Outpost
+  - [x] Grandmother
+  - [x] Remembers before fog
+  - [x] Older than three hundred ?
+  - [x] Dead
+    - Actually not dead
+    - Escaped death from Telehorn Outpost
+      - Hiding to get orders from 'Moon Hemlock'
+  - Moon Hemlock, Third Member
+  - Three hundred and thirty three years old
+- [] Calsar Hei'Sang, the Human Fighter
+  - Moon Hemlock, Fourth Member
+  - Stone, Sealed
+  - Sacrificed himself to Seal Hazen'brato
+- [m] Forest Gnome ? !! DM: What was his name ? !!
+  - [m] Seen: Telehorn Outpost
+- [m] Jorshar
+  - [<] Protagonist wannabe
+  - [x] Home: Telehorn Outpost
+  - [m] Hat Fixation
+- [x] Detla Kamice
+  - [<] Beautiful entrancing
+  - [x] Home: Stormy Alder Woods
+  - [x] Broke Anton Filbersh's Heart
+  - Elven Ranger
+  - Won't be with Anton Filbersh because she's afraid of abandonment
+  - Lost her bat familiar
+- [?x] Viona Vosenhaut
+  - [x] Eldest Sister (1st)
+  - [v] Adventurous
+  - [v] Black Sheep
+  - [v] Loves History
+  - [v] Chasing amazing thing
+- [v] Veter Vosenhaut
+  - [v] Eldest Brother (2nd)
+  - [v] Passive
+  - [v] Fencer
+  - [v] Influential Tournament Winner
+- [v] Viola Vosenhaut
+  - [v] Younger Sister (4th)
+  - [v] Blanks out
+  - [v] Premonitions
+  - [v] Blanking out has gotten longer and cannot be stopped
+- [v] Vendrik Vosenhaut
+  - [v] Youngest Brother (5th)
+  - [v] Political
+  - [v] Manipulative
+  - [v] Least Favorite
+- [v] Kara Korelan, the Human Noble Child
+- [v] Koram Camlin, the Human Explorer
+  - [v] Looking for genealogy
+  - [v] Going West to check
+- [x] Kismet Dolan, the Half-dwarf Guard
+  - [<] Drunkish Opportunist
+  - [x] Hangs out at The Sword Inn
+- [?x] Ali Soviak
+  - [<] Have no fear !
+  - [x] Half-elf
+  - [x] Fighter
+  - [k] Made a bet in The Galleon Arms that there were no Mainlanders
+- [x] Din, The many Wizards
+  - Time/Dimension Traveller
+  - Din, the Begin
+  - Din of question
+  - Din, the Grey
+  - Din of old
+  - Din, the Blackend
+- [x] Vil Daggersharp
+  - [x] Female Halfling
+  - [x] Thug
+- [x] Bram Graylock
+  - [x] Male Human
+  - [x] Thug
+- [x] Reznik Huba
+  - [x] Male Gnome
+  - [x] Thug
+- [m] Fedor
+  - [m] Seen: Tholn'den
+  - [m] Pickpocket
+  - [m] Lied about Gilenth being named " Kamenki "
+- [m] Gilenth
+  - [m] Seen: Tholn'den
+  - [m] Shaister
+  - [m] Cup and Ball
+- [x] Alfrimu Derhill
+  - [x] Seen: Tholn'den
+  - [x] Castle Registry Worker
+  - [x] " It says here Viona Vosenhaut was leaving toward Marigrun 6 mos ago "
+- [x] Thori Holmgison, the Dock Registrar
+  - [x] Guild: Tholn'den Military
+  - [x] Seen: Tholn'den
+  - [x] Docks Registrar
+  - [x] Meticulous Note Keeper
+- [x] Kesmit, the Guard
+  - [x] Guild: Tholn'den Military
+  - [x] Seen: Tholn'den
+  - [x] Has Mugnila Face Trinket
+- [x] Jeritt Vambala, the Repentent Rogue
+  - [<] I trust you, I'll be fine
+  - [x] Guild: Criminals
+  - [x] Criminal, Murderer
+- [k] Khatur Fan, the Human Commoner
+  - [k] Affiliate: Burges Farn
+  - [k] Seen: Tholn'den, Shrine of Boldrei
+- [k] Burges Farn, the Human Commoner
+  - [k] Affiliate: Khatur Fan
+  - [k] Seen: Tholn'den, Shrine of Boldrei
+  - [k] Helped bring the Cole Titran to Shrine of Boldrei
+- [m] Ilham Inot, King of Tholn'den
+  - [x] Guild: Royalty
+- [?x] Ingerdg Thranidotr, the Tholn'den Constable
+  - [x] Seen: Tholn'den, Constable's Tower
+- [?x] Luthelye Danamark, the Tholn'den Prison Guard
+  - [x] Guild: Tholn'den Military
+  - [x] Seen: Tholn'den, Constable's Tower
+  - [x] ★✬☆☆☆ Party Relation
+- [?x] Elet Yamaude, Warlock of the Ear
+  - [x] Guild: Cult of the Ear
+  - [<] Smug, Confident
+  - Alive
+- [?x] Garvin Towerfall, the Bandit
+  - [x] Guild: Criminals
+  - [x] Seen: Tholn'den, Constable's Tower
+- [?x] Aevan Armanci, the Bandit
+  - [x] Guild: Criminals
+  - [x] Seen: Tholn'den, Constable's Tower
+  - Dead
+- [?x] Mardred Grimtor, the Bandit
+  - [x] Guild: Criminals
+  - [x] Seen: Tholn'den, Constable's Tower
+  - [x] Stole Scimitar from Mugnila Coppice
+- [x] Thabar Karosk, the Human Blacksmith
+  - [<] Oi, wot can I get yew ?
+  - [x] Guild: Merchants
+  - [x] Seen: Tholn'den, The Iron Shield
+  - [x] Kelaria 15c debt !! DM: Was this paid ? !!
+  - Imprisoned by Mainlanders in Tholn'den
+- [x] Hony Denfield
+  - [<] Nasal, unmotivated
+  - [x] Seen: Tholn'den, The Sword Inn
+  - [x] Innkeep, The Sword Inn
+- [x] Fei Lemonsi, Waitress
+  - [x] Seen: Tholn'den, The Sword Inn
+  - [<] Favorable
+- [x] Elfrunu Dostat
+  - [x] Job: Tholn'den Guard
+  - [x] Seen: Tholn'den
+  - [x] Attraction: Fei Lemonso
+- [x] Baldo Grubbuck
+  - [<] Eeeeeey !  Whatcha want ?  A' got a couple a' things
+  - [x] Halfling
+  - [x] Job: Tavernkeep, The Minstrel's Chariot
+  - [x] Seen: Tholn'den, The Minstrel's Chariot
+  - [x] From Mar-Ove
+    - [x] Traveled for Wanderlust
+    - Didn't have many friends in Mar-Ove
+- [x] Gauwalt Bertsav
+  - [<] If you're not with us, then you're against us !
+  - [x] Guild: Worshippers of Priaros
+  - [x] Seen: Tholn'den, The Broken Haberdash
+  - [x] ★☆☆☆☆ Party Relation
+- [x] Anton Filbersh
+  - [<] I dare not try to feel as I once felt before
+  - [x] Guild: Worshippers of Priaros,
+  - [x] Seen: Tholn'den, The Broken Haberdash
+  - [x] Job: Ranger
+  - [x] Attraction: Heartbroken
+- [x] Brica Korflit, Priestess of Boldrei
+  - [x] Seen: Tholn'den, Shrine of Boldrei
+  - [x] Smart
+- [x] Eurlich Catocarr, Priest of Boldrei
+  - [x] Seen: Tholn'den, Shrine of Boldrei
+  - Used to disagree with Imthar Boladen
+    - Believed Imthar Boladen was weak
+    - He was wrong, and now Eurlich Catocarr trusts Imthar Boladen
+- [x] Imthar Boladen, the Third.  Head Priest of Boldrei
+  - [x] Seen: Tholn'den, Shrine of Boldrei
+  - [<] W-Well, it's not much but, we can always see things through
+  - A little racist vs Tieflings / H-Orcs
+- [k] Cole Titran, the Beggar
+  - [<] Spare some alms for the poor ?
+  - [k] Seen: Tholn'den, Shrine of Boldrei
+  - [k] The Bloodless Man
+- [m] Madislak Carnago
+  - [<] I kyennot remain burden to authers ..  I whish to avienge my mahther !
+  - [m] Seen: Tholn'den, Shrine of Boldrei
+  - [m] Tiefling Boy, Lost mother
+- [x] Stili Rockleg
+  - [<] Terse and Gruff
+  - [x] Race: Dwarf
+  - [x] Job: Tavernkeeper, The Bloody Thorn
+  - [x] Seen: Tholn'den, The Bloody Thorn
+- [k] Gargus Irongull, Tavernkeeper
+  - [<] Ah'v got what ya need !  Some grub for yer belly and a some drink for your sorrow !
+  - [k] Seen: Bluefield, The Galleon Arms
+- [k] Mara Brightleaf, the Halfling Cleric / Tavernkeep of The Courageous Crabs
+  - [<] Oh dear, now where did my spectacles leave off to ?
+  - [k] Seen: The Courageous Crabs
+  - [k] Kelaria Brightleaf's Mother
+  - [k] Farmer
+- [k] Rancis Whthey, the Halfling Tavernkeep of The Courageous Crabs
+  - [<] Drop to your bottoms lads, it's time I told you a story I haven't told in a looooong time
+  - [k] Seen: The Courageous Crabs
+  - [k] Kelaria Brightleaf's Father
+- [x] Steveren Goldrudder
+  - [<] I'll do-o-o what I can-n-n, but I advise you reconsider-r
+  - [x] Royal Advisor
+  - [x] Seen: Tholn'den
+- [x] ??? Informant
+  - Praxana Skandalor, the Elven Female Informant
+  - Found Adamah Machinist II in a crate
+  - Stole a gear piece
+- [m] Lily Silverfin, the Halfling Female Refugee Organizer
+    - [m] Mugnila Coppice gave 20c
+- [a] ??? Old man
+  - [<] T-t-this Rickety o-old man has a few-w-w stories to tell
+  - Name: Markus Lynchfield
+  - Seen: Vosenhaut Basement Manor
+- [?v] Markus Lynchfield, the alchemist
+  - [v] Taught class
+- [?mv] Ulrich Cresthill, the Half Orc child brawler
+  - [<] Ulrich is the best puncher !
+- [+kv] Clayre Goldrudder, the Human Priestess of Anansa
+- [kv] Antonyr Strong, the Human Priest of Anansa
+- [?x] Darrak Ramcrown, the Human Baker
+  - [<] I could try to give it to you cheaper, but ..
+  - [x] Seen: The Exalted Bakery
+- [x] Domitia Romazi, the Red Tiefling Alchemist
+  - [<] I wish I could help
+  - [x] Recklessness ..
+    - [x] A band of adventurers claim:
+      - [x] Her potions were useless in healing
+      - [x] Some of them died
+  - [x] Griffinfire Hamlet drove her away
+  - [x] Divided of Temple of Anansa and Government
+  - [x] Can't remember the day she made potions
+- [x] Battle Beetle
+
+## [xo] Organizations
+- [xo] COMING SOON
+- Worshippers of Prarios
+- Priests of Boldrei
+- Dragons
+- Parnek
+- Moon Hemlock
+  - Ludo Thatkar
+  - Falok Demin
+  - Zansa'ba Coppice
+  - Calsar Hei'Sang
+- Vosenhaut Noble Estate
+- House of Kalonar
+  - Hunting
+  - Strong arm politics
+-  House of Korelan
+  - Diplomats
+
+## [xo] Lore
+
+
+
+## [xo] Players
+### [+x] Vyse Vosenhaut
+- [x] Backstory
+  - [x] Mainlander
+  - [x] Nobility
+  - [v] Third child of five
+  - [v] Betrothed, political union with the royal Cobbelin family
+  - [kv] Ran and failed to survive alone
+    - [kv] Saved by Monks
+      - [v] .. Elten Community Monastery
+    - [kv] Trained within his monastery
+    - [kv] Was forced to leave
+      - [v] .. Due to his pride
+- [v] Inventory
+
+### [+x] Mugnila Coppice
+- [x] Backstory
+  - [x] Grew up in Outpost Telehorn in Parnek forests
+  - [x] Listened to tales about when there were places other than Parnek
+  - [x] Ignored traditional roles and searched for mysteries in nature
+  - [x] Gained notoriety for helping travelers and fending off hooligans
+- [m] Inventory
+  - [x] A small woolen bag stolen from Din the Many
+    - [x] A strange smooth stone, it emits a faint bitter scent
+      - [x] A strong whiff or licking: Allows user to vividly relive any memory as if it were real for 3 rounds
+      - [] Intelligence Rolls create nightmares
+      - [] Wisdom Rolls must fail to wake
+      - [] Roll 3d20.  On 1, 1, 1 the memory stone breaks
+      - [] Characters takes lv x d4 dmg
+      - [] When the stone breaks: It can no longer be used, even when mended.  Inside is a Key.
+### [+x] Kelaria Brightleaf
+- [x] Backstory
+  - [k] Brightleafs stayed in Marigrun since it was destroyed
+  - Brightleafs know that this is Boldrei's place of power
+  - Keep secret for enemies of Boldrei
+  - [x] Brightleafs established a clinic, treat injured, take donations
+  - [k] Family is networked, friends, relatives
+  - [k] Mother moved to Tierbern, became farmer
+  - [k] Met father became Tavenkeeper
+#### [+] Notes
+  Boldrei, today there were many children with their ears torn off and I know I've been sent with reason.
+  Let me know if finding the source of this heinous crime is your will.
+  I know you will look over the children hurt by this time.
+  What is next ?  Is this what you wanted ?
+  I don't know why I'm here.
+
+  Is this bloodless man involved with the man in black
+  Let me perform your will
+
+  Behind Kelaria's cheerful expression, she struggles with her so called 'gift', given by Boldrei. When she was little, even littler than she is now, she adored her mother, particularly for her mother's dedication to helping people. When Kel received her powers, she thought her mother would share in her excitement, but instead was told to keep it a secret- even from her grandmother (who also has the blessing). It wasn't long before her powers were revealed though, and her grandmother was as ecstatic as Kelaria had hoped her mother would've been. Since then, her entire life changed.
+
+  Instead of seeing her grandmother once a month, she moved into the temple for training- only being able to see her mother once a month since. The church held so many expectations for Kelaria, at which she was eager to fill at first. Then as she didn't show as much development as they hoped, the training grew even more intense. Just a few years after, her younger sister followed her to the temple, also having the 'gift'. Then it was a struggle, while Kelaria's sister was a natural for being a cleric. Kelaria's flaws began to be more apparent every day. The final difference between the two sister clerics, was receiving an oracle.
+
+
+  As Kelaria's grandmother grew older, the question of who would succeed the temple was increasingly becoming more important. Many of the temple members were split between the sisters, as to whom would inherit the succession. It was believed that whomever the goddess Boldrei favored, would receive a divine message, but she remained quiet for a long time. Then a month ago, Kelaria had an ominous dream. Ships parting through the fog of Parnek, docking at Tholn'den.
+
+  Kelaria didn't understand the message, other than to go to Tholn'den for answers. She feels hesitant, perhaps insecure as to her position within the temple. It was her hope that the journey would give her answers to : why was she chosen to receive the powers, when her mother did not? What did it mean for her to be Boldrei's servant, and was it a decision that she made, or made for her? Lastly, she wondered w
+
+  Boldrei today has been one big trial.  Telehorn way back, there was a bear attack and these poachers.  I'm confused as to what the right thing to do is.  One culture, living, other culture bears.  I intervened because I felt that the bears were overwhelming these humans.  I didn't realize how cruel people could be.
+
+  I came here, and I should have asked for your advice.  My friend Magnila has an amulet, and people keep calling it the Cochlea amulet.  Something to do with the ears.  I feel that I must destroy this.  How Imthar may not be the best person to trust.  Perhaps give me some guidance.  I understand you have your reasons for choosing them for your congregation in Tholn'den.  I am afraid he might be easily pressured by those of Prarios.]
+
+  I don't know if their work is legitimate, but I don't appreciate their message.  I'm sorry for my insubordination of Imthar.  Please make it clear to me.  I personally believe these mainlanders deserve to be a part of our family.
+
+  I believe you can see much further than I can, if you could share with me, I would appreciate that.  Thank you for your blessings, Boldrei.
+####
+###
+
+## [+xo] History
+
+- [z+] Parnek
+  - [z] Before the Fog:
+    - King Haladron Parnek
+    - **Anansa, Goddess of Beauty**
+    - [z] Rulers of mainland began to lay claim to Parnek
+    - [z] Rulers began to militantly conquer Parnek
+    - **Boldrei, Goddess of Protection**
+    - Ludo Thatkar
+- Anansa, Goddess of Beauty
+- [x] Boldrei, Goddess of Protection
+- [x+] The Ear, Ancient One of Listening
+  - Lacks followers
+  - Made of many ears
+  - Summons ear enemies
+  - [x] Cochlea Stone
+    - [x] A Black Polished Stone in swirling pattern
+    - [x] Used to create a pact with The Ear
+    - [x] Will bond to one's ear
+
+## [+z] Introduction
+
+## [+z] Game
