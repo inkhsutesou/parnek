@@ -11,7 +11,7 @@ constants:
 
   - &ada Adama Machinist II
   - &din Din Kthyr
-  - &ash Ashe Gillain
+  - &ash Ash Gillain
 
   - &omega [ *ada, *din, *ash ]
 
@@ -23,58 +23,6 @@ constants:
   - &item
     name: null
     notes: |-
-
-##=========================================================
-dungeon master notes:
-##=========================================================
-  questions:
-    - Is Lagazi Elgara (Ashe`s Mother) dead ?
-  ideas:
-    - Critical fail 1 or 2
-    - One of your DCs is raised by 1
-    - AC raised by 1
-    - AtkRoll raised by 1
-    - Prevent a Disadvantage
-  hooks:
-    - Moon Hemlock ( Mugnila, Din )
-    - Orc Note - To speak to the dead ( Mugnila, Vyse, Din )
-    - Cochlea Stone
-    - Elgara Family Insignia
-    - Din`s Parents, Information on the Fog
-  Backlog: |-
-  
-  - Orcs of <Where Vorux is now> now rule Bluefield
-  - 
-  marigrun sends boats to capture kelaria
-  if capture
-  kelopia is the high priestess of Marigrun
-  she agrees to help Kelaria escape but must banish her
-  each is asked to be questioned by Kelopia
-  vyse, din, adamah
-  where are you from
-  what do you know of orntal, orcish hordes, deru
-  what is this ?  item from their inventory
-  how do you know kelaria/vendrick
-
-  ashe is called to meet with but must wait
-  while waiting is approached by spectres in the waiting room
-  grossly desperate starved elven children they attempt to kill her
-  you should have joined with us
-  he will destroy more than us
-  he destroyed us, because you let him
-  reveal brother
-  they leave into the room
-  kelopia only asks about orntal
-  prarios arrives in Marigrun and has a new competent spokesperson
-  veladin cornette, elven diplomat
-  - the location of mugnila
-  - demands kelaria be given over on grounds of witchcraft
-  
-  kelopia, I`m sorry, and delivers to prarios
-  
-  
-
-
 ##=========================================================
 sessions:
 ##=========================================================
@@ -132,10 +80,10 @@ sessions:
     party: *player
     events:
       - The Clash:
-        - Din Kthyr, Ashe Gillain, sees Madislak is dead
+        - Din Kthyr, Ash Gillain, sees Madislak is dead
         - Machinist, you recognize Vyse Vosenhaut
         - Vyse, you recognize the sound of Machinist`s Cannon they seem the same construction as the Mechanical Beast that attacked
-        - Ashe, you recognize Mugnila from a painting
+        - Ash, you recognize Mugnila from a painting
         - Mugnila, you recognize this man as Din, the Many
         - Kelaria
       - Vyse Vosenhaut, Vorux Elk, Viona Vosenhaut vs Vendrick Vosenhaut, Adamah Machinist II:
@@ -173,7 +121,7 @@ sessions:
           - Do you wish to overwrite P.a with P.b ?
           - In the last round before Machinist takes control, P.z is revealed as theOS
           - History - Vendrick Vosenhaut is not the Manufacturer
-      - Mugnila Coppice, Kelaria Brightleaf vs Din Kthyr, Ashe Gillain:
+      - Mugnila Coppice, Kelaria Brightleaf vs Din Kthyr, Ash Gillain:
         - Before Din Kthyr goes down
         - Zansa`ba Coppice Returns
         - Mugnila Coppice Arc, ALPHA, Zansa`ba Coppice and the Moon Hemlock:
@@ -226,7 +174,7 @@ sessions:
             - They will harness it`s power to planeshift
             - In an unending fog ..  Vanishing Parnek from the world
           - Primordial:
-            - The waves crashed and the winds roared and disappeared forever a water and rock that did not belong
+            - The waves crAshd and the winds roared and disappeared forever a water and rock that did not belong
         - Facing off Calsar Hei`Sang frozen with his knee in the Dragon`s scaleless body
         - Ludo Thatkar, seems to be casting a ritual legs crossed
         - Zansa`ba warns the party, and blows some petals into the barrier
@@ -251,7 +199,7 @@ sessions:
         - Daemiin Vrye or ..  I am every Din
         - All you need is Royal blood
         - And thankfully, we already have some here
-        - Takes out the same needle in a bottle that pricked Ashe Gillain
+        - Takes out the same needle in a bottle that pricked Ash Gillain
         - Did you not know ?  What makes you think of this ?  Draws Symbol in Minor Illusion.  This is the secret of Elven Royalty.
         - All we need is to touch this, right ..  Here
         - Pricks the field, and it slowly begins to open
@@ -376,8 +324,8 @@ sessions:
         - If you go you may find her there, along with her band of miscreants
       - Savages:
         - Sleep in the skin, cult of the cheek
-        - See a vision of Haesoe Umbermoor, Ashe`s younger brother
-        - Demonic, a voice only Ashe can hear
+        - See a vision of Haesoe Umbermoor, Ash`s younger brother
+        - Demonic, a voice only Ash can hear
         - He is ours, and soon you will be
         - Old one offers a deal, I can help you get what you want ..  If you help me with what I want ..  Bracellet strange runes
         - Buccae stone
@@ -409,11 +357,11 @@ sessions:
         - Din Kthyr may join them
         - Prarios will try to brainwash Din Kthyr
         - Din may notice a cultist among their ranks
-      - Madislak Carnago relates to Din and Ashe:
+      - Madislak Carnago relates to Din and Ash:
         - I am missing my mother, my father he was a brave soldier
         - He has died fighting for the people of Highcliff but was not honored
         - I wish to be as brave as he, but I am not
-        - I wish to be more like Ashe, but also wish to be more like Din
+        - I wish to be more like Ash, but also wish to be more like Din
         - I do not know about Machinist
         - Sometimes Madislak looks as if he is whispering to something not there
       - The Vosenhaut Task:
@@ -529,7 +477,7 @@ sessions:
     party: *omega
     events:
       - limit: *ash
-      - Ashe arrives on a ship
+      - Ash arrives on a ship
       - Told to famiiarize with surroundings
       - Do not make a scene
       - They invade at night
@@ -545,7 +493,7 @@ sessions:
       - Guards interfere
       - allow: *din
       - Din asks about Mainlanders from Merchant
-      - Ashe Runs from guards
+      - Ash Runs from guards
       - Din creates Obstacle
       - limit: *ada
       - While walking, briefs Adamah
@@ -569,7 +517,7 @@ sessions:
       - Written in Infernal
       - allow: *din
       - Meet back in front of the Practical Parchment
-      - Din recognizes Ashe has killed
+      - Din recognizes Ash has killed
       - Din leaves to market
       - block: *ash
       - Purchase extravagant clothes/hood, haggled 1s > 7c
@@ -706,7 +654,7 @@ sessions:
         - Upon entering, they are looked up with scorned glances
         - Finds Jeritt Vambala asleep after helping bandage refugees
         - Sanity ★★☆☆☆
-        - The horses are gone, the wagon smashed
+        - The horses are gone, the wagon smAshd
         - INVESTIGATE: Devil is written on the wagon
         - Ali Soviak leaves " I think we should separate for some time "
         - An angry mob comes to drive Kelaria Brightleaf out
@@ -1038,3 +986,123 @@ sessions:
         - Night comes possible tavern ?
         - Information on thugs lead forest
         - Forest has warlock, `The Ear`
+##=====================================
+  - date: 20190607
+##=====================================
+    introduction: |-
+      Parnek, a long and lost continent which had vanished mysteriously over 300 years ago.
+      So long that the Dwarves and Elves could barely remember.
+
+      A human seafarer, " Quentin Ferrywit " made it his task to map the entire ocean and rule it with that knowledge.
+
+      He recently came upon Parnek and with his years of skill and experience, he was able to find his way to and from within the fog and vast obstacles.
+
+      Hundreds of untold stories, unfinished quarrels, and unspoken words were a result of the disappearance of Parnek long ago.
+
+      Ancient claims and contracts on land have been unearthed by Rulers, Emperors, and Charlatans.
+      A question of whether ancient alliances, truces ..  and cease fires .. still hold true.
+      Terrible rivalries re-awoken.
+
+      Those on the continent of Parnek live a culture of abandonment.  As to them, the world had disappeared beyond the fog.
+
+      All who attempted to set sail from Parnek before Quentin's arrival eventually only found themselves lost ..
+      And if they were lucky, they could find their way back.
+
+      Many nobles found themselves in a position of kings.
+      Shopkeepers ended up becoming the bankers and goods keepers of this new world.
+      Many ancient loyalties were tested and failed.
+
+      Adventures that could not be finished by many a hero, wanderer, or rogue.
+      Legendary impossibilities now made possible.
+      The heroes of centuries ago, band together with the youths of today to Parnek.
+
+      All of this beneath the burning question.
+      How did Parnek disappear in the first place ?
+    requirements:
+      - Weekly Attendance
+      - Responsible Cancelation
+      - Allow three sessions to exit narratively
+      - No character changes, a narrative is written for your character
+    data: |-
+      - Theme
+        - Light-hearted and serious
+        - Inspired by Lodoss, Berserk and Shining Force
+        - Plot is developed around character backstories and abilities
+        - Combat is multi-objective and natural
+      - Safety / Responsibility
+        - Maturity: PG-13
+          - Violent themes, little gore
+          - There are no DM initiated sexual encounters, none
+          - Sexual encounters become fade-to-black
+        - Attendance: Weekly
+          - Please give as much notice as possible for skipping sessions
+          - The game does not continue without all participants
+          -
+          - Please agree that if you desire to exit the game, to play a narrative exit session
+      - Voice acting NPCs
+        - I enjoy taking on different voices for different characters
+        - I don't consider myself good at this, but I try and want to get better
+      - Culture
+        - Magic is rare and comes with social responsibility
+          - Cleric, Paladin spells are the only universally accepted magic
+          - Bard, Monk abilities are considered mysterious feats of talent
+          - Ranger, Druid spells are either mistaken holy or evil with little inbetween
+          - Wizard, Sorcerer magic is considered a minor feared form of devilry
+          - Warlock magic is considered devilry and may be hunted
+        - Low economy
+          - Players start with 2d8 copper
+          - A gold coin is enough to charm commoners
+          - Barter of service is more common
+        - Racial discrimination
+          - The world of Parnek has racial bias/discrimination
+          - Those who play at my table are not
+            - Half-orcs, Tieflings suffer segregation
+            - Dragonborn are feared
+            - Elves, Half-elves have celebrity
+            - Halflings, Gnomes are not taken seriously
+            - Dwarves are avoided
+        - Gameplay
+          - Murky Mirror
+          - Time will continue if the player has not decided not to do anything on their turn
+          - If what was said has an in character translation, I will treat it in character
+          - Point-buy
+          - 95% sandbox
+          - Square Grid
+          - 5ft Diagonal Movement
+          - 1s/20s create situational experiences
+          - Other unspoken cool things
+        - Inspiration
+          - Gained by Roleplay
+          - Uses:
+            - Gain an advantage on any roll
+            - Request a clue from DM
+            - Avoid a critical failure after rolling a 1
+            - Required for " Rule of cool " actions
+        - Perception, Insight, Investigation will often be rolled by DM
+            - Insight will be used for the character's self evaluation of their skill check
+            - INT Save determines delay until notice something has been stolen
+      - Dungeon Master
+        - Since 20190613
+        - Background in D&D HR
+        - [Discord Chat](https://discordapp.com/channels/@me/214541886520557568)
+        - Focuses:
+          - Immersion
+          - Moral Choices
+          - Social Dilemma
+          - In-depth dining descriptions
+        - Likes:
+          - Chocolate Milk
+          - K-Pop Dance
+          - Gallery Hopping
+          - Software Engineering
+          - Bonfires
+          - Diner /w Friends @ 3a
+          - Skincare
+          - Virtual Reality
+          - Flossing
+          - Ping Pong
+        - Dislikes:
+          - Disrespectful/Rude people
+          - The word " Fancy "
+          - Political polarization
+          - Playing your music in public

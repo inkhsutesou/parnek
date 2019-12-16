@@ -2,32 +2,69 @@
 timeline:
 ##=========================================================
 
-  - year: 308
-    title: Vyse Vosenhaut arrives in Parnek
+  - year: 30308
+    eventList:
+      - Vyse Vosenhaut is announced dead by Vendrick Vosenhaut
+      - Vyse Vosenhaut reveals Duencian plot to Cobbelin House
+      - Markus Lynchfield gifts Adamah Machinist II to Vendrick Vosenhaut
+      - Vyse Vosenhaut arrives in Parnek
+      - Vosenhaut & Cobbelin House invade Parnek
+      - Caerlos Fletcher brings "The true story behind Calsar Hei'Sang" to Din Kthyr
 
-  - year: 306
-    title: Vyse Vosenhaut runs from his betrothal and joins Monastery
+  - year: 30307
+    eventList:
+      - Vyse Vosenhaut betrothed to Imaena Cobbelin
+      - Vyse Vosenhaut leaves Imaena Cobbelin at Altar
+      - Vyse Vosenhaut joins Elten Community Monastery
 
-  - year: 212
-    title:
+  - year: 30305
+    eventList:
+      - Viona Vosenhaut and Quentin Ferrywit discover a way into Parnek
 
-  - year: -12
-    title: Order of Moon Hemlock Assembly
+  - year: 30282
+    eventList:
+      - Cult of Kankit Gilgeam Yei`yoot kidnaps Ash Gillain && Haesoe Umbermoor
+      -
+
+  - year: 30275
+    eventList:
+      - Haesoe Umbermoor born
+
+  - year: 30270
+    eventList:
+      - Abelas Elgara ( Ash Gillain ) born
+      - Lagazi Elgara gives Abelas Elgara to Myla Gillain
+      - Myla Gillain && Ash Gillain leave Ravensong Fort to Karnet Hallow
+
+  - year: 30255
+    eventList:
+      - Markus Lynchfield discovers Adamah Machinist II
+      - Markus Lynchfield studies Adamah Machinist II
 
   - year:
-    title: Capture of Hazenbrato
+    eventList:
+      - Capture of Hazen'braouto
+      - Vanishing of Parnek
 
   - year:
-    title: Menenfaux of Orn'tal use the ancient Warforged to take over Parnek [IDEA]
+    eventList:
+      - Order of Moon Hemlock Assembly
 
   - year:
-    title: Goddess Anansa Curses Parnek with desireability
+    eventList:
+      - [IDEA] Menenfaux of Orn'tal use the ancient Warforged to take over Parnek
 
   - year:
-    title: Hazenbrato gives Parnek the gift of plenty
+    eventList:
+      - Goddess Anansa Curses Parnek with desireability
 
   - year:
-    title: Birth of Hazenbrato
+    eventList:
+      - Hazen'braouto separates Parnek from Orn'tal
 
-  - year: 7700
-    title: Adamah Machinist II built
+  - year:
+    eventList: Adamah Machinist II built
+
+  - year:
+    eventList:
+      - Birth of Hazen'braouto

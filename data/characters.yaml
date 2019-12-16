@@ -4,7 +4,7 @@ const:
   - &kel Kelaria Brightleaf
   - &vor Vorux Elk
   - &ada Adamah / Machinist II
-  - &ash Ashe Gillain / Abelas Elgara
+  - &ash Ash Gillain / Abelas Elgara
   - &vys Vyse Vosenhaut
   - &mug Mugnila Coppice
   - &din Din Kthyr
@@ -45,7 +45,7 @@ characters:
 ##=====================================
   - name: Velene Balefrost
 ##=====================================
-    tags: [ Elf, Bookbinder, Telehorn Outpost ]
+    tags: [ elf, bookbinder, Telehorn Outpost ]
     seen: Telehorn Outpost
     notes: |-
       Turned to dust, and made into a pile
@@ -72,12 +72,6 @@ characters:
         - Vision of Kaliopa in a cave
         - Kidnapped by Criminals
         - Healed sister
-    spoilers:
-      - sister is the chosen one
-      - kelaria is accused of witchcraft
-      - sister is killed
-      - boldrei reveals history
-      - dragon is waking
 ##=====================================
   - name: Kaliopa Brightleaf
 ##=====================================
@@ -163,7 +157,6 @@ characters:
   - name: Kankit Gilgeam Yei`yoot
 ##=====================================
     tags: [ patron, demon ]
-    spoilers:
 ##=====================================
   - name: Markus Lynchfield
 ##=====================================
@@ -181,11 +174,6 @@ characters:
     tags: [ artificer ]
     data:
       - Warforged
-    spoilers:
-      - Finds memory banks
-      - Other OS takes over when unconscious
-      - Realizes Vyse Vosenhaut is not manufacturer
-      - Theo is a small warforged and saves him
 ##=====================================
 ##=====================================
   - name: Alarcion Stormwolf
@@ -202,7 +190,7 @@ characters:
     data:
       - Scribe
       - Failed Adventurer
-      - [ Brought, bookCaHe, to Din Kthyr ]
+      - [ Brought, to Din Kthyr ]
 ##=====================================
   - name: Lagazi Elgara
 ##=====================================
@@ -212,7 +200,7 @@ characters:
       - Falls in Love with Alarcion Stormwolf
       - Pregnant
       - Leaves Ravensong Fort due to Political Toxicity
-      - Gives birth to Ashe Gillain
+      - Gives birth to Ash Gillain
       - Passes daughter to Myla Gillain
 ##=====================================
   - name: Myla Gillain
@@ -220,14 +208,14 @@ characters:
     data:
       - Elf, Female
       - Soldier of Ravensong Fort
-      - Ashe Gillain's adoptive mother
+      - Ash Gillain's adoptive mother
 ##=====================================
   - name: Snorre Umbermoor
 ##=====================================
     data:
       - Human, Male
       - Marries Myla Gillain
-      - Dies saving Ashe Gillain
+      - Dies saving Ash Gillain
 ##=====================================
   - name: Haesoe Umbermoor, the Half-elf Brother
 ##=====================================
@@ -241,19 +229,12 @@ characters:
       - Sorrow of the Sun
     tags: [ player ]
     data:
-    spoilers:
-      - Finds Cult, and brother
-      - Brother is Evil
-      - Cult is looking for Viona Vosenhaut
-      - Is offered Warlock Pact by the Ear
     notes: |-
 ##=====================================
   - name: *vys
 ##=====================================
     skills:
       - smile: 4
-    spoilers:
-      - middle sister contacts in a dream
 ##=====================================
   - name: *mug
 ##=====================================
@@ -261,10 +242,6 @@ characters:
       - healing word: [ 7, +1hr, -1hd ]
     goods:
       - Rememberance Stone
-    spoilers:
-      - grandmother isn't dead
-      - join moon hemlock
-      - blood required to sleep the dragon
 ##=====================================
   - name: Theodorus Kathyr
 ##=====================================
@@ -279,10 +256,4 @@ characters:
 ##=====================================
     tags: [ player ]
     data:
-    spoilers:
-      - Meets with undead Din
-      - Finds parents
-      - Comes upon the temple in Marigrun
-      - Knows all languages required
-      - Ends up having to choose between parents and releasing the Dins
     notes: |-
