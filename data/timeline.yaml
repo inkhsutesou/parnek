@@ -20,39 +20,50 @@ timeline:
   - year: 30305
     eventList:
       - Viona Vosenhaut and Quentin Ferrywit discover a way into Parnek
+      - Quentin Ferrywit betrays Viona Vosenhaut when they learn Feedren/Metla Kthyr is stuck inside the Mist
+
+  - year: 30301
+    eventList:
+      - Din Kthyr falls down the ladder and dies
+      # plothole, why does he end up splitting into several possibilities of himself ?
 
   - year: 30300
     eventList:
       - Din Kthyr Orphaned
+      - Feedren/Metla Kthyr enter into the Mist
+      - Open a path/blindspot through the Mist
 
   - year: 30286
     eventList:
       - Din Kthyr Born ( Spring )
 
-  - year: 30282
-    eventList:
-      - Cult of Kankit Gilgeam Yei`yoot kidnaps Ash Gillain && Haesoe Umbermoor
-      -
-
-  - year: 30275
-    eventList:
-      - Haesoe Umbermoor born
-
-  - year: 30270
-    eventList:
-      - Abelas Elgara ( Ash Gillain ) born
-      - Lagazi Elgara gives Abelas Elgara to Myla Gillain
-      - Myla Gillain && Ash Gillain leave Ravensong Fort to Karnet Hallow
-# 15 year gap ???, how do i make ash a parnecian ?
   - year: 30255
     eventList:
       - Markus Lynchfield discovers Adamah Machinist II
       - Markus Lynchfield studies Adamah Machinist II
 
-  - year:
+  - year: 30080
+    eventList:
+      - Cult of Kankit Gilgeam Yei`yoot kidnaps Ash Gillain && Haesoe Umbermoor
+
+  - year: 30068
+    eventList:
+      - Haesoe Umbermoor born
+
+  - year: 30063
+    eventList:
+      - Abelas Elgara ( Ash Gillain ) born
+      - Lagazi Elgara gives Abelas Elgara to Myla Gillain
+      - Myla Gillain && Ash Gillain leave Ravensong Fort to Karnet Hallow
+# 63 year gap between this ..  Ravensong Fort had a relationship with Hazen'braouto and was able to travel through the mist all this time ? meh, mehhh
+# maybe keep Ash in Orn'tal but Ravensong Fort is related ?  no, should meet with parents so they have to be in Ravensong Fort in Waic ..  or END up there
+  - year: 30000
     eventList:
       - Capture of Hazen'braouto
+      - Trapping Hazen'brauto in a stasis of a moment throughout Parnek
+      - The movement of time causes a mist
       - Vanishing of Parnek
+      - Boats are destroyed by Hazen'braouto in a stasis they cannot escape
 
   - year:
     eventList:
