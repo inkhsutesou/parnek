@@ -13,6 +13,9 @@ roadmap:
     - AC raised by 1
     - AtkRoll raised by 1
     - Prevent a Disadvantage
+    - mazri's word of death
+      - On a failed wisdom saving throw vs caster DC
+        - add a failed death save counter
   hooks:
     - Moon Hemlock ( Mugnila, Din )
     - Orc Note - To speak to the dead ( Mugnila, Vyse, Din )

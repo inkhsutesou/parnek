@@ -21,6 +21,14 @@ timeline:
     eventList:
       - Viona Vosenhaut and Quentin Ferrywit discover a way into Parnek
 
+  - year: 30300
+    eventList:
+      - Din Kthyr Orphaned
+
+  - year: 30286
+    eventList:
+      - Din Kthyr Born ( Spring )
+
   - year: 30282
     eventList:
       - Cult of Kankit Gilgeam Yei`yoot kidnaps Ash Gillain && Haesoe Umbermoor
@@ -35,7 +43,7 @@ timeline:
       - Abelas Elgara ( Ash Gillain ) born
       - Lagazi Elgara gives Abelas Elgara to Myla Gillain
       - Myla Gillain && Ash Gillain leave Ravensong Fort to Karnet Hallow
-
+# 15 year gap ???, how do i make ash a parnecian ?
   - year: 30255
     eventList:
       - Markus Lynchfield discovers Adamah Machinist II
